@@ -1,3 +1,50 @@
+mycatismycat: feel free to open a PR if you did it (https://github.com/zackhe-uk/casiocalc/pulls)
+mycatismycat: yeah that's a good idea
+ilovecats4606: hmm
+ilovecats4606: that
+ilovecats4606: Reccomendation:
+
+make it scroll bottom up like discord
+Maybe make it discordlike ui for easier reading for codeblocks.
+I may code something to make it look like
+mycatismycat: **NOTE: this is only a text archive and does not include discord-uploaded files or their links**
+mycatismycat: https://casiocalc.zackhe.uk/fx-82AU_PLUS_II_2nd/chatlog.txt
+i will update this regularly, feel free to use it
+mycatismycat: it has to be some of the worst code i've ever written in my life but it does the job
+mycatismycat: replace ${auth} with your discord account token
+mycatismycat: ```window.msgLog = [];
+function recurseMsgs(chan, extra) {
+setTimeout(() => {
+    fetch(`https://discord.com/api/v9/channels/${chan}/messages?${extra}limit=100`, {
+    "headers": {
+        "accept": "*/*",
+        "accept-language": "en-GB,en-AU;q=0.9,en-AU;q=0.8,en;q=0.7,en;q=0.6",
+        "authorization": "${auth}",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "x-debug-options": "bugReporterEnabled",
+    },
+    "referrer": window.location.href,
+    "body": null,
+    "method": "GET",
+    "mode": "cors",
+    "credentials": "include"
+    }).then(req => req.json().then(jsonReq => {
+        jsonReq.map(a => `${a.author.username}: ${a.content}`).forEach(b => { msgLog.push(b); });
+        if(jsonReq.length >= 100) recurseMsgs(chan, `before=${jsonReq[jsonReq.length-1].id}&`);
+        else {
+            window.onclick = () => {
+                navigator.clipboard.writeText(msgLog.join('\n'));
+                window.onclick = null;
+            };
+            alert("Download complete! Click anywhere to copy to clipboard.");
+        }
+    }));
+}, 1000);
+}
+recurseMsgs("1282292960448479284", "");```
+message scalper for this channel
 theseat_yt: I needed it to get the ai to know stuff about the calculator to help get seg1 dump (have not got it yet - im on holidays)
 ilovecats4606: hello everyone!!!
 ilovecats4606: moyai
