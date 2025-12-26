@@ -1,3 +1,141 @@
+mistyre9309: And <byte count>?
+mistyre9309: alr
+jsaidoru: 0x8D is Ran# + 1(will show @)
+mistyre9309: Yeah
+jsaidoru: you know how to get unstable bytes?
+mistyre9309: can you give me examples as to what I should write in the <0x80> and <byte count>?
+jsaidoru: if the calculator tokens contains $ then sure <:kekw:1179085868519133287>
+mistyre9309: hmmm
+advidiot: noy it means dollars 🤑 🤑 🤑 🤑 /s
+jsaidoru: yes
+mistyre9309: $ means any number?
+jsaidoru: oh i found the 570 vere version
+## fx-570/991ES PLUS VerE ROM dump hackstring (using checksum)
+by user202729, source: <https://tieba.baidu.com/p/5029670678>
+```
+<52 characters>
+
+Ans →M 0 $
+0 0 $ $
+$ $ <byte count>
+$ $ $ $
+$ $ $ $
+
+³√( →M 0 $
+$ $ $ $
+$ $ cv02 <0x8D>
+
+cv10 →D 0 $
+
+<12 characters>
+```
+`<byte count>`: 2 characters representing the number of bytes in data segment 8 (code segment 0) to be subtracted - 1, in little endian. Note that the `0xFFFC` first bytes of data/code segment 1 is still subtracted.
+
+Template hex version:
+```
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 8B 4B 30 01 30 30 01 01 01 01 xx xx 01 01 01 01 01 01 01 01 A8 4B 30 01 01 01 01 01 01 01 D8 8D E0 4A 30 01 01 01 01 01 01 01 01 01 01 01 01 01
+```
+mistyre9309: Well, can we translate it?
+jsaidoru: 82
+mistyre9309: or 82
+mistyre9309: This is for the 991 esp?
+jsaidoru: ```
+2E 1F 2E 2E 
+36 37 30 30 
+52 28 30 30
+2E 88
+8C 05 31 30
+30 30 30 30
+40 23 30 30
+40 23 30 30
+40 23 30 30
+40 23 30 30
+44 2D 30 30
+30 30
+
+F8 27 30 30
+AE 8B
+F6 27 8E 34
+10 06 01 01
+D0 78 31 30
+52 28 30 30
+DC 8B
+D2 33 30 30
+30 30 30 30
+B4 2E 30 30
+EC 8B
+B2 22 30 30
+8E 34 30 30 
+30 A0
+B2 2C 30 30
+FF FF 2E 2E
+```
+Token:
+```
+. 𝜇ᴘ . . 6 7 0 0 o ( 0 0 . Conjg( Ran# ao 1 0 0 0 0 0 Vm 𝜇n 0 0 Vm 𝜇n 0 0 Vm 𝜇n 0 0 D - 0 0 0 0 J▶kgf⋅m e 0 0 ⌟ Ans Pa▶kgf/cm² e Q3 4 Σx² h mᴘ mᴘ P( R 1 0 o ( 0 0 m▶yd Ans R( 3 0 0 0 0 0 0 c₂ . 0 0 g▶oz Ans tan⁻¹( 𝜇e 0 0 Q3 4 0 0 0 sin( tan⁻¹( , 0 0 @ @ . .
+```
+mistyre9309: Even if it's not finished
+mistyre9309: No like, just the hackstring that already works
+jsaidoru: the rom dumping is not finished so its kinda impossible to do
+mistyre9309: <@1085862271399493732>
+jsaidoru: only the segment 0(still not the full segment, they need to extract a huge FF chunk too)
+mistyre9309: Oh
+advidiot: the text that you have sent seems like hieroglyphics for me
+mistyre9309: We have the VerE rom, but not the verf
+mistyre9309: Do you know any method to translate the fx 82 au plus II rom dump hackstring to the 991 es plus VerF/VerE?
+advidiot: theseat_yt, ilovecats4606 and  mycatismycat
+mistyre9309: btw
+advidiot: looks like it's actually three people
+advidiot: only a part of the rom afaik
+mistyre9309: He succeeded, didn't he?
+advidiot: kind mister ilovecats#4606 has been trying to dump the rom of this calculator for a while now
+hurleyclan_5: this is my home now 💯
+hurleyclan_5: thanks
+hurleyclan_5: thats the one\
+advidiot: just check the media tab in search
+advidiot: https://discord.com/channels/839749858687844372/1282292960448479284/1437391724413583412
+hurleyclan_5: do yall have a photo of the calculator this chanell is about
+mistyre9309: Can someone convert this to hex? For the image drawing hackstring on the 991esp
+mistyre9309: 
+canasage: https://tenor.com/view/monster-gif-15735703222063336145
+theseat_yt: idk where that is
+bn9u: blud is going to agartha
+theseat_yt: .___.
+ilovecats4606: overseas
+theseat_yt: Where are u going
+theseat_yt: Ok
+ilovecats4606: going overseas
+theseat_yt: Why
+ilovecats4606: i won’t be available with calc until 2026
+theseat_yt: I changed the master prompt so that it doesn’t hallucinate, and its core focus is providing accurate information no matter what.
+
+ChatGPT hallucinates as it is wanting to please the user (as told by openAI), but you can edit grok’s instructions to very greatly reduce the chance of hallucinating.
+
+It is also promoted to not use the internet, and the chat logs instead.  This increases accuracy. If you want to check the validity of any of the references, paste the reference it provided into the chat search in discord, it doesn’t make up or alter messages from what I have seen so far.
+theseat_yt: ChatGPT is dumb
+theseat_yt: Totalynce is carrying us fr
+theseat_yt: I feel I need a way to keep track of my important messages that I need to use
+theseat_yt: Check back in the chat and u can check parts if you like
+ilovecats4606: and idk if im right
+ilovecats4606: like i tried to disassemble the hackstring
+ilovecats4606: but like idk how to start a rop chain
+ilovecats4606: i sort of understand registeres and some stuff now
+ilovecats4606: wait i sorta dont understand and i want <@759251017287860244> to like double check this is right cause i asked chat and it was like half wrong
+theseat_yt: Yeah
+ilovecats4606: thats smartr
+ilovecats4606: wait you gave it the chatlogs
+theseat_yt: https://grok.com/share/c2hhcmQtNA_360a5269-e25e-4c36-807e-432a4dc4a440
+
+this might be of interest
+theseat_yt: Also we need to get checksum hackstring and validate the current ROM
+theseat_yt: Quite close. We have to 
+- extend FF chunk seg0 
+- Dump seg1 (need to increment ER14 to point to seg1)
+- convert the ROM with pixel detection and extract needed frames
+ilovecats4606: how close are we to fullromdump
+ilovecats4606: i literally taught u these stuffs and overflows 😭
+ilovecats4606: i just need learn asm stuffs and cpu arch
+ilovecats4606: bro, i lowk already know
 theseat_yt: thank grok
 mycatismycat: so yeah, pretty useful
 thanks
@@ -6,10 +144,10 @@ mycatismycat: oh yes that's nice
 mycatismycat: cool
 theseat_yt: <@981463678698266664> this might help u understand how the calculator works (guide by grok)
 theseat_yt: okay sure
-mycatismycat: but what's wrong with logging it again? :) the more the merrier
+mycatismycat: but what's wrong with logging it again? \:) the more the merrier
 mycatismycat: I know you already logged it
-theseat_yt: I’m on a holiday so I couldn’t send it i am not near my laptop 
-theseat_yt: I already logged it
+theseat_yt: I’m on a holiday so I couldn’t send it i am not near my laptop
+theseat_yt: I already logged it :|
 mycatismycat: feel free to open a PR if you did it (https://github.com/zackhe-uk/casiocalc/pulls)
 mycatismycat: yeah that's a good idea
 ilovecats4606: hmm
@@ -196,7 +334,6 @@ theseat_yt: im alr typing it
 ilovecats4606: pov i type the whole thing and crash
 ilovecats4606: 😭
 theseat_yt: <@981463678698266664>
-theseat_yt: I regenerated it and it also said try 35 for seg1 so thats a good sign
 theseat_yt: Here is Grok's explanation, I scraped the message history of this channel and put it into the prompt so it should be pretty accurate
 theseat_yt: Apparantley grok says jus change this from 4 to 5 and it reads seg1
 theseat_yt: ```2E      .
@@ -310,7 +447,6 @@ FF      @
 2E      .
 2E      .```
 theseat_yt: Hmmmm
-theseat_yt: 52       8E             MOV R14, #34h         ; R14 = 0x34 → selects ROM segment 0
 theseat_yt: from grok so take it with a grain of salt
 theseat_yt: ill come back when i have learnt stuff
 theseat_yt: okai
