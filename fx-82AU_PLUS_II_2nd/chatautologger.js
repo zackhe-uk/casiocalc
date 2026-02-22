@@ -6,7 +6,7 @@ setTimeout(() => {
     "headers": {
         "accept": "*/*",
         "accept-language": "en-GB,en-AU;q=0.9,en-AU;q=0.8,en;q=0.7,en;q=0.6",
-        "authorization": "${auth}",
+        "authorization": `${auth}`,
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-origin",
