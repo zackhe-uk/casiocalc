@@ -1,3 +1,261 @@
+mycatismycat: turns out i need to write a stupid comment here
+phongg7828: 
+sushi2627: 
+theseat_yt: DEAD CHAT 🤵‍♀️🤵‍♀️🤵‍♀️🤵‍♀️🤵‍♀️🤵‍♀️
+vmhax: 
+mycatismycat: argh shit not again
+mycatismycat: too lazy to install right now but i will tomorrow
+ilovecats4606: anyone help framecutter???
+sushi2627: wine is not a perfect translator
+ilovecats4606: freaking genius
+sushi2627: +in a vacuum,wine should be able to replicate what the program does
+sushi2627: just use wine bro
+sushi2627: proton doesnt have explorer iirc since it is a game focused wine fork
+mycatismycat: explorer in wine just opens up... well, explorer
+mycatismycat: ```
+[2026-02-09T19:33:47] [19:33:47.97][01] [INF] Disconnected from the JR service
+[2026-02-09T19:33:48] [19:33:48.01][01] [INF] waiting for explorer shell to get up 0 seconds
+[2026-02-09T19:33:49] [19:33:49.01][01] [INF] waiting for explorer shell to get up 1 seconds
+[2026-02-09T19:33:50] [19:33:50.01][01] [INF] waiting for explorer shell to get up 2 seconds
+[2026-02-09T19:33:51] [19:33:51.01][01] [INF] waiting for explorer shell to get up 3 seconds
+[2026-02-09T19:33:52] [19:33:52.01][01] [INF] waiting for explorer shell to get up 4 seconds
+[2026-02-09T19:33:53] [19:33:53.01][01] [INF] waiting for explorer shell to get up 5 seconds
+[2026-02-09T19:33:54] [19:33:54.01][01] [INF] waiting for explorer shell to finish starting 6 seconds
+[2026-02-09T19:34:00] [19:34:00.06][01] [INF] Disconnected from the JR service
+[2026-02-09T19:34:00] [19:34:00.10][01] [INF] waiting for explorer shell to get up 0 seconds
+[2026-02-09T19:34:01] [19:34:01.10][01] [INF] waiting for explorer shell to get up 1 seconds
+[2026-02-09T19:34:02] [19:34:02.10][01] [INF] waiting for explorer shell to get up 2 seconds
+[2026-02-09T19:34:03] [19:34:03.10][01] [INF] waiting for explorer shell to get up 3 seconds
+[2026-02-09T19:34:04] [19:34:04.10][01] [INF] waiting for explorer shell to get up 4 seconds
+[2026-02-09T19:34:05] [19:34:05.10][01] [INF] waiting for explorer shell to get up 5 seconds
+[2026-02-09T19:34:06] [19:34:06.10][01] [INF] waiting for explorer shell to finish starting 6 seconds
+[2026-02-09T19:34:12] [19:34:12.10][01] [INF] [FG3] True
+[2026-02-09T19:34:12] [19:34:12.10][01] [INF] [FG1] App Main Window Foreground: True
+[2026-02-09T19:34:12] [19:34:12.10][01] [INF] [FG1.1] App Popup Foreground: False
+[2026-02-09T19:34:12] [19:34:12.17][01] [ERR] FATAL: Replay crashed: System.ComponentModel.Win32Exception (126): Failed to load required native library 'C:\windows\Microsoft.NET\Framework\v4.0.30319\wminet_utils.dll'.
+   at System.Management.WmiNetUtilsHelper..cctor()
+```
+logs make sense
+mycatismycat: and it's also still running
+mycatismycat: but for the record I WAS able to use my computer without being locked
+mycatismycat: so i guess not
+mycatismycat: it loves opening the desktop folder in virtual wine and then crashing
+mycatismycat: testing it right now in proton
+mycatismycat: and wine is
+1. broken
+2. has a virtual desktop feature
+mycatismycat: no it won't because it's wine
+theseat_yt: exactly
+sushi2627: which is locking down the browser
+sushi2627: it will still lock down browser since wine is trying to replicate(idk what word to use here) what does it do in windows
+sushi2627: huh
+mycatismycat: therefore if you put it through wine in theory it'll run fine
+mycatismycat: i know what it is, and wine is a windows transition layer
+theseat_yt: the NAP locked down browser (attempts to) keeps student from opening other applications; there are many differences between it and wine. You cannot ' just use wine' because that dosent restrict or monitor the students
+mycatismycat: where the fork path goes from most to least recent:
+naplan reskin
+janison replay reskin
+generic locked down browser used in europe
+chromium
+mycatismycat: anyway it's a shitty fork of a fork of a fork of chromium
+mycatismycat: i don't understand the point of the naplan locked down browser when you can just use wine
+mycatismycat: mobile layout jumpscare
+mycatismycat: which country owns the yt domain?
+ilovecats4606: oh alrr
+theseat_yt: yea
+bn9u: It's on seats website
+ilovecats4606: is this the microsoft makecode?
+theseat_yt: nice
+bn9u: 
+theseat_yt: https://theseat.yt is officially live wooooo
+theseat_yt: I think I got it off a minecraft mod, I knew it was sketchy but I accidentally ran it, I only assumed it would try and steal my microsoft account but how naive was I
+bacteria2331: how did you get hacked?
+ilovecats4606: toyalncecanyoupleaseconfirmtheanswer
+ilovecats4606: 
+mistyre9309: Could you help me in dms?
+bn9u: <@800039171938058240> yes I do
+mistyre9309: ping me if you see this
+mistyre9309: <@759251017287860244> do you have any experience in making hackstrings?
+lol2302.: 🐒
+n0n0k0: 🐒
+ilovecats4606: alsohaveibeenspellingtotalyncewrongthewholetimeithinkispelleditliketotalyancenottotalynce
+ilovecats4606: iactuallycantseethevotingresultsiwonderiftotalyncewillvote
+jsaidoru: 🥀
+ilovecats4606: 
+theseat_yt: my bad bad
+ilovecats4606: mbb
+bn9u: im watching movie bruh
+ilovecats4606: <@759251017287860244> canyoupleasehelpmetodumptherom:)idkwhattodoforseg1
+theseat_yt: I have regained access to my account, and deleted every scam message.
+frsr: o7
+theseat_yt: I have to go to my 50+ contacts and delete all the messages now
+frsr: you actually interact, so it was worth the effort of deleting the messages and waiting for you to recover the account
+theseat_yt: Got hacked my bad
+theseat_yt: Thank you
+frsr: <@782395167079792691> unmuted
+ilovecats4606: <@388777079455612929> <@782395167079792691> got their account back
+frsr: and i'll unmute them
+ilovecats4606: okay
+frsr: or if they do
+frsr: just someone ping me when they get their account back
+frsr: nah i've not removed them
+ilovecats4606: rip theseat
+frsr: they actually interact so i don't want to just ban them
+frsr: someone tell me when they've recovered their account
+jsaidoru: btw i wanna ask is it possible to flash rom with pico.ino only?
+jsaidoru: gmt+7
+theseat_yt: What Timezone are u in
+jsaidoru: timezone?
+theseat_yt: Bro why are we most active at 12:09AM
+ilovecats4606: but<@759251017287860244>saiddebugpinwontworkbecausetheprotocolforthiscalccantbefoundbycommunitydespitetryingalotofthem
+sushi2627: what if im not
+theseat_yt: that’s what a casio spy would say
+sushi2627: im definitely not a casio spy
+bn9u: 
+lol2302.: orusethis,andaccesstosecret
+jsaidoru: or use this 😂
+ilovecats4606: <@1456250044192788646>
+ilovecats4606: yes please
+mycatismycat: seg1 before gta 6?
+mycatismycat: i never travel overseas
+ilovecats4606: need <@759251017287860244>
+ilovecats4606: i just came back to australia
+jsaidoru: segment 1 when 😭
+theseat_yt: https://www.youtube.com/watch?v=XvG-ejH0zGg
+mycatismycat: ```ce eating ice credit grok
+mycatismycat: ok
+ilovecats4606: what hackstrings that u make it multi-thready knew my or smth in the way the sp = er14,pop er14
+pop er2
+ilovecats4606: 😭
+angusbromly: theif?? is because than 2) so i want to max
+ilovecats4606: bruh i will come particult to get a render
+xx xx xx 1F xx xx)
+theseat_yt: I have `123456....123456[unstable for this rom stuffs
+ilovecats4606: 2137
+bn9u: called doing `→D-00!!` just chance great i really what disappeared
+theseat_yt: do you can store it should try other a 1 or ac or what to me wonder without trial
+bn9u: Btw it outside of the screen with exam sending
+ilovecats4606: oop of 1byte/sec then another way to fix it but in the displays 202020` type cs after 0xFFFF, it should reset with a super smth
+ilovecats4606: 🥺
+ilovecats4606: oh
+theseat_yt: chat
+mycatismycat: just do 0 2 0 0 0 0 0 0 0...`
+ilovecats4606: totalynce adress, you know stuff tho
+jsaidoru: hmm looking at things make it should log all override hackstring I wants you type ->D-00sqrt6
+ilovecats4606: fx82au plus II 2nd edtion
+bn9u: now?
+ilovecats4606: oh to the mode68
+ilovecats4606: why casio
+mycatismycat: **NOTE: this when it will make one last work and i press left
+8. After i brb in seat pixels
+ilovecats4606: ok dump 372 byte
+user1111110301: Yes
+ilovecats4606: so it twice. if the second
+kribit: How method
+theseat_yt: thats so bad light up you didnt a guy, the gadget find 4.5hour method
+ilovecats4606: but leik
+bn9u: i dont press [DEL] 17 times, or until m light up, then it jailbroke something
+ilovecats4606: even if it working addr tho
+ilovecats4606: isint that is a "gadgets to me
+ilovecats4606: REAL ROM ALERt
+ilovecats4606: bruh whenever the STAT submode 68 mathio more findicator line back for mode and 10 92 F9 80 E2 11 90 dc 80 80 22 11 92 f8 80 80 22 11 90 F7 80 11 90 fb 80
+ilovecats4606: overclock" it in
+ilovecats4606: video
+theseat_yt: O no not gonna table on model
+bn9u: (the owner all try
+```
+mycatismycat: hopefully nobody got pinged
+mycatismycat: ```5, 7 is this somewhere I was we get from random hackstring?
+bn9u: yes, and that2009guy: bruh
+bn9u: we can replacement
+bn9u: (the cursor instruction
+bn9u: <@782395167079792691>
+ilovecats4606: any segment N 
+it on some to type 44 numbers, it didn’t we document/d/18MC7IHjw5njUg0iQGxJGPWzbfkAKMP4TMGfFdjrxtBU/edit?usp=sharing
+ilovecats4606: like this, button calculator or sometimes in pinned my questing
+ilovecats4606: put its possible
+ilovecats4606: yea
+ilovecats4606: ok
+bn9u: true
+ilovecats4606: yes bro is got a 100% flashes when i forgetting 1 single and answer i get a lot of new
+mycat: notice how broke some up in equation this example to character is not gonna new on the first but i will have the secrease do for about this `4f 2d 30 30 --st r2, r0
+adr_of [-2] address FRACTION
+theseat_yt: 
+aubsched then slowly type 44 chars still m etc
+bn9u: if the binary
+bn9u: argh
+ilovecats4606: 4k
+theseat_yt: I am
+ilovecats4606: yeye convert that’s were will help
+bn9u: im not just got
+bn9u: i want think totalynce premium
+ilovecats4606: wtf
+ilovecats4606: it will see crazy fade character should i watch
+bn9u: \`\`\`
+org 0x8188
+loop:
+  0:2d4fh\` is call 0x0c
+bn9u: i sucks
+bacter
+ilovecats4606: when this cool new it
+bn9u: SO
+bn9u: im suign
+theseat_yt: Think i could I video early inefficiancy x100
+ilovecats4606: dyk whateverything: Balright
+bn9u: (shift frac)
+ilovecats4606: lmao
+ilovecats4606: https://casiocalc that faster
+\`\`\`
+now its core filming off pixel select you're just that2009guy: cool i know the warp on 250 messgaes 😭😭
+theseat_yt: :(
+bn9u: hmm looks like type it just gives this restore the hex, swap to for a few pixels
+ilovecats4606: you can answer is still part
+ilovecats4606: bruh
+ilovecats4606: 
+ilovecats4606: .
+ilovecats4606: yes and it can resets it just add FF's until it right arrow once you cant and the in a video <:thonkeng:1285599603479154770>
+ilovecats4606: WAIT I CAN
+ilovecats4606: give me to do no brackets
+```
+mycatismycat: i put the chat log through a markov chain
+mycatismycat: i guess it's because everybody is on holidays or some shit
+mycatismycat: why is it dead
+mycatismycat: :(
+theseat_yt: Dead chat 🦞🦞
+ilovecats4606: first 2026
+mycatismycat: they probably dont ship to australia :\( but its ok i mean at least i saw one
+ilovecats4606: freerom
+ilovecats4606: better added freedom
+variablean2k12: Check out 'casio calculator', available at RM28 on #Carousell: https://carousell.app.link/4YR9Ndo6tZb
+variablean2k12: wait
+variablean2k12: Our country is very diverse <:trollface_big:1278702146560327700>
+variablean2k12: Theres a shit ton in malaysia
+mycatismycat: why is it all such little documented
+mycatismycat: i can't find anything about it
+mycatismycat: CALCULATOR
+mycatismycat: I'VE NEVER SEEN SUCH
+mycatismycat: SEND THE LINK
+mycatismycat: WHERE IS THAT
+variablean2k12: Costs less than 5 dollars btw
+mycatismycat: what about the original fx-82AU
+mycatismycat: so it's just like ii...
+mycatismycat: ooh
+variablean2k12: 
+variablean2k12: I have
+ilovecats4606: looks like no verif
+ilovecats4606: <@759251017287860244>
+ilovecats4606: woah
+mycatismycat: its lost media
+mycatismycat: other then that manual
+mycatismycat: i can't find anything on the original PLUS
+mycatismycat: that's crazy bc i've never seen any photos
+mycatismycat: https://support.casio.com/pdf/004/fx-82AU_PLUS_E.pdf
+fx-82AU PLUS (without the ii) actually exists
+ilovecats4606: real
+mycatismycat: [here](https://github.com/zackhe-uk/casiocalc/commit/28c07c7cce297df1ad0948743c7f5707ece21beb#L199)
+theseat_yt: ??
+mycatismycat: chat logs have been updated (i saw what you deleted 🔥)
+theseat_yt: 
 mistyre9309: And <byte count>?
 mistyre9309: alr
 jsaidoru: 0x8D is Ran# + 1(will show @)
@@ -97,7 +355,7 @@ advidiot: https://discord.com/channels/839749858687844372/1282292960448479284/14
 hurleyclan_5: do yall have a photo of the calculator this chanell is about
 mistyre9309: Can someone convert this to hex? For the image drawing hackstring on the 991esp
 mistyre9309: 
-canasage: https://tenor.com/view/monster-gif-15735703222063336145
+n0n0k0: https://tenor.com/view/monster-gif-15735703222063336145
 theseat_yt: idk where that is
 bn9u: blud is going to agartha
 theseat_yt: .___.
@@ -460,8 +718,8 @@ ilovecats4606: 🥺
 ilovecats4606: please
 ilovecats4606: help dump seg1 now
 ilovecats4606: so we dumped seg0
-whoisthat2009guy: great
-whoisthat2009guy: dead chat
+black_0xdead: great
+black_0xdead: dead chat
 theseat_yt: ??
 mycatismycat: I could spend my life pondering upon the contents of that message... OR I could go outside and touch grass
 mycatismycat: one message in fx 82AU PLUS II 2nd edition channel i didn't read, that got deleted
@@ -591,7 +849,7 @@ theseat_yt: also I got my calculator home
 theseat_yt: good luck
 ilovecats4606: i overflow and do hs correct
 ilovecats4606: why syntax error?
-whoisthat2009guy: good luck ig
+black_0xdead: good luck ig
 ilovecats4606: i will try 1 more time
 theseat_yt: for 100% acc we have to:
 - Get a video without AF
@@ -599,25 +857,25 @@ theseat_yt: for 100% acc we have to:
 - manually go through every frame
 - Rom dump seg 1
 - do it again
-whoisthat2009guy: only some of esp calc dumped
+black_0xdead: only some of esp calc dumped
 theseat_yt: thats not many
-whoisthat2009guy: with 100% accuracy, checksum is also ok
-whoisthat2009guy: 570esp (2nd), 570vnp (2nd)
-whoisthat2009guy: yes
+black_0xdead: with 100% accuracy, checksum is also ok
+black_0xdead: 570esp (2nd), 570vnp (2nd)
+black_0xdead: yes
 theseat_yt: has any calculator had the rom fully dumped with 100% accuracy before?
-whoisthat2009guy: but time to dump ... too much
-whoisthat2009guy: well, dump each byte is way more correct
-whoisthat2009guy: because a **single** byte error may cause rom not working as expected
-whoisthat2009guy: the rom must be 100% correct
-whoisthat2009guy: but the matter is
-whoisthat2009guy: yes
+black_0xdead: but time to dump ... too much
+black_0xdead: well, dump each byte is way more correct
+black_0xdead: because a **single** byte error may cause rom not working as expected
+black_0xdead: the rom must be 100% correct
+black_0xdead: but the matter is
+black_0xdead: yes
 theseat_yt: its not gonna be 100% perfect
-whoisthat2009guy: and gave me long , long time ago
-whoisthat2009guy: because I had template of checksum hackstring (chinese created it)
+black_0xdead: and gave me long , long time ago
+black_0xdead: because I had template of checksum hackstring (chinese created it)
 ilovecats4606: maybe i will fix syntaxerror
 ilovecats4606: just use me
-whoisthat2009guy: well, if I have at least 1 au 2nd calc i can do it myself
-whoisthat2009guy: it will be correct if you can **use checksum** hackstring to calculate and check
+black_0xdead: well, if I have at least 1 au 2nd calc i can do it myself
+black_0xdead: it will be correct if you can **use checksum** hackstring to calculate and check
 bn9u: so inc er14
 bn9u: iirc it uses the r0 = 1:[er14]
 bn9u: it is simpler iirc
@@ -701,11 +959,11 @@ theseat_yt: Wdym
 user11111110301: Does anyone know how to loop and restore the stack?
 user11111110301: What of it Rop code?
 theseat_yt: ty!
-whoisthat2009guy: okay so thats it lol
-whoisthat2009guy: wait my bad.
+black_0xdead: okay so thats it lol
+black_0xdead: wait my bad.
 theseat_yt: true
 theseat_yt: ohh okay
-whoisthat2009guy: 1.
+black_0xdead: 1.
 a. Yes
 b. At 44th characters
 c. No need after we typed 100 chars full
@@ -741,7 +999,7 @@ ilovecats4606: pls help
 mycatismycat: that would make a brilliant wallpaper if it wasn't cut off
 mycatismycat: > *"freerom freerom"*
 \- ilovecats4606
-whoisthat2009guy: bruh
+black_0xdead: bruh
 ilovecats4606: 0,1
 theseat_yt: how many segments are there?
 ilovecats4606: seg0
@@ -817,8 +1075,8 @@ ilovecats4606: so dead now
 angusbromly: 😭
 angusbromly: jesus bro
 ilovecats4606: but i seem not able to type too many unstable with 2020 method (maybe no more than 2) so i wait for spelling method to drop
-whoisthat2009guy: it will display actual ascii characters instead of tokens (the one that you saw on the input screen)
-whoisthat2009guy: third column is only use for spelling
+black_0xdead: it will display actual ascii characters instead of tokens (the one that you saw on the input screen)
+black_0xdead: third column is only use for spelling
 theseat_yt: Also new free calculator acquired
 theseat_yt: Also why notes next to the character??
 theseat_yt: What’s the point of the third column
@@ -835,7 +1093,7 @@ enjoy guys
 (||<@759251017287860244>|| pls pin this)
 theseat_yt: https://github.com/Thecoolcookie99/Casio-fx-82-ii-2nd-edition-character-sheet/blob/main/README.md
 theseat_yt: this took way too long to make
-whoisthat2009guy: 💀
+black_0xdead: 💀
 mycatismycat: Suck your own dick
 angusbromly: fuck off with this shit
 lbphacker: is that right?
@@ -991,10 +1249,10 @@ FF      @
 FF      @
 2E      .
 2E      .```
-whoisthat2009guy: <@981463678698266664> hmm, should we release hackstring now?
-whoisthat2009guy: mean use each half of frame and merge to 1 img
-whoisthat2009guy: stevey tool uses manual frame cutting method
-whoisthat2009guy: i need frame cutter
+black_0xdead: <@981463678698266664> hmm, should we release hackstring now?
+black_0xdead: mean use each half of frame and merge to 1 img
+black_0xdead: stevey tool uses manual frame cutting method
+black_0xdead: i need frame cutter
 ilovecats4606: i will make one later but i got some stuff to do
 ilovecats4606: 🙄
 ilovecats4606: if its so easy why dont u make it
@@ -1006,8 +1264,8 @@ theseat_yt: bro just use my tool, its a lot more reliable than img2bin
 its also very reliable as well
 kribit: looks like some great progress
 kribit: holy what did i miss
-whoisthat2009guy: i need a frame cutter. stevey had a frame cutter tool be4 but i lost 😭
-whoisthat2009guy: hmm
+black_0xdead: i need a frame cutter. stevey had a frame cutter tool be4 but i lost 😭
+black_0xdead: hmm
 ilovecats4606: 1. chatgpt code in pinned also there is original img2bin
 2. needs steady lighting like mine
 mycatismycat: 🔥 🔥
@@ -1017,19 +1275,19 @@ lbphacker: do yall have a solution that mostly works or is this a genuine proble
 lbphacker: mainly because the one time I saw it done it seemed to work smoothly enough
 lbphacker: I thought reading bits off the screen was a solved problem in this community
 angusbromly: sadly the screen is damaged
-whoisthat2009guy: for easier analysing I want a guy who had a good -> best camera like you
-whoisthat2009guy: your camera looks.... GREAT
+black_0xdead: for easier analysing I want a guy who had a good -> best camera like you
+black_0xdead: your camera looks.... GREAT
 angusbromly: even the slightest gradient
 angusbromly: 
 angusbromly: 
 angusbromly: a video will be near impossible
 angusbromly: this is nowhere good enough and the image is decent
 angusbromly: 
-whoisthat2009guy: <:devious:1283726778799755337>
+black_0xdead: <:devious:1283726778799755337>
 lol2302.: checksum+ocr<:devious:1283726778799755337>
-whoisthat2009guy: only analyze steps is ughhhh
-whoisthat2009guy: good news for <@981463678698266664> <@1119554379490525204> <@802070813112926229> <@895187713261703188>
-whoisthat2009guy: okay
+black_0xdead: only analyze steps is ughhhh
+black_0xdead: good news for <@981463678698266664> <@1119554379490525204> <@802070813112926229> <@895187713261703188>
+black_0xdead: okay
 angusbromly: yeah i dont think this is right
 angusbromly: gn
 angusbromly: alright ill try img to bin the rom
@@ -1063,7 +1321,7 @@ ilovecats4606: REAL FULL SEG0 FIXED
 ilovecats4606: REAL REAL REAL
 ilovecats4606: REAL REAL REAL ROMDUMPS ALERT
 ilovecats4606: <#839762460796780544>
-whoisthat2009guy: Not expected this result
+black_0xdead: Not expected this result
 angusbromly: im adding what i know so far
 angusbromly: https://docs.google.com/document/d/18MC7IHjw5njUg0iQGxJGPWzbfkAKMP4TMGfFdjrxtBU/edit?usp=sharing
 jsaidoru: my phone is so bad it cant even load google drive 💀
@@ -1083,8 +1341,8 @@ ilovecats4606: random bytes, and the rom hackstring is half working
 mycatismycat: DUMP IT
 mycatismycat: FREEROM
 jsaidoru: btw what parts of the rom were dumped?
-whoisthat2009guy: some bytes we dumped (from address `0x3402`)
-whoisthat2009guy: ```
+black_0xdead: some bytes we dumped (from address `0x3402`)
+black_0xdead: ```
 0A 00 04 FC C6 F8 10 9C DF 80 8E F8 F1 CE 02 00 10 91 F9 80 88 71 0D C9 0C 71 0A C9 01 00 10 91 FA 80 01 71 01 C9 01 10 10 91 09 81 01 C9 01 10 1F FE 10 91 0E 81 FC C9 F1 A0 38 81 F9 C8 03 00 F7 CE CE F8 11 90 DE 80 01 F0 56 94 0C F0 58 02 CE F1 00 E2 11 92 DF 80 EE 00 82 01 01 F0 4A 62 1E F0 8E F2 CE F8 80 E0 04 C9 80 E2 02 C9 01 F1 0C A9 8E F2 CE F8 14 E2 40 00 81 01 01 F0 84 34 8E F2 CE F8 5E F2 00 E2 01 F0 4A 62 1E F2 8E F2 00 00 11 90 FE 80 11 90 FF 80 11 90 01 81 11 90 00 81 11 90 30 81 1F FE 00 00 F7 CE 00 00 F7 CE 11 90 F5 80 01 00 11 90 F7 80 1F FE 11 90 F5 80 00 00 11 90 F7 80 1F FE CE F8 7E F8 4E F0 01 F1 42 5E 00 8E 0E F0 25 FA 0A E8 85 FC 5E FC 04 F8 26 02 82 03 86 F2 A5 F0 01 F0 1A 7B 1E F0 01 7E 03 C9 A5 F0 01 F1 2A 50 5E FC 8A EA A5 F0 10 92 F9 80 C4 72 06 C9 00 E2 01 F0 4A 62 1E F0 3E F8 8E F2 08 02 84 03 86 F2 01 F0 1A 7B 01 7E 03 C9 A5 F0 01 F1 2A 50 F2 CE CE F8 7E F8 25 FA 0A E8 85 FC 5E FC 04 F8 26 00 82 01 86 F0 A5 F2 01 F0 1A 7B 1E F0 10 90 F9 80 C4 70 09 C8 08 00 84 01 5E FC A5 F2 8A E2 86 F0 01 F0 1A 7B 1E F0 3E F8 8E F2 1F FE 00 00 1F FE 1A A0 1F FE 18 02 8A 03 1A A0 28 80 ```
 ilovecats4606: 
 ilovecats4606: who can i see peeking out there
@@ -1129,10 +1387,10 @@ ilovecats4606:
 ilovecats4606: update:: chatgpt is SCAMMER
 ilovecats4606: theres about 67 unstables bro
 ilovecats4606: testing on realrom
-whoisthat2009guy: emulator rom works
-whoisthat2009guy: <@981463678698266664> <@802070813112926229> <@782395167079792691>
+black_0xdead: emulator rom works
+black_0xdead: <@981463678698266664> <@802070813112926229> <@782395167079792691>
 edit: ping <@759251017287860244> too
-whoisthat2009guy: 
+black_0xdead: 
 ilovecats4606: how is this even allowed 😭
 ilovecats4606: dude its basically asking the teacher "did i get it right" its so op
 ilovecats4606: 
@@ -1140,7 +1398,7 @@ angusbromly: depends on the exam
 ilovecats4606: like you can literally check if ur ans is right during exams and stuff
 ilovecats4606: imo VERIFY funct is super op in this calc, its basically cheating
 ilovecats4606: olo
-whoisthat2009guy: lol
+black_0xdead: lol
 ilovecats4606: bro just repleid and gave credit 😭
 ilovecats4606: i dont need credit
 mycatismycat: well he didn't credit anyone for it
@@ -1325,44 +1583,44 @@ ilovecats4606: video
 mycatismycat: it could be a mega skill issue
 mycatismycat: i failed
 mycatismycat: i tried it
-casiotester2k12: 4 line spell (with timer ig) AND inverted syntax error😱
+variablean2k12: 4 line spell (with timer ig) AND inverted syntax error😱
 ilovecats4606: ?
 ilovecats4606: i will send the rom
-whoisthat2009guy: yes , i think i could help
+black_0xdead: yes , i think i could help
 ilovecats4606: i can send you the emurom
 ilovecats4606: if you want to help 😉 go ahead
 ilovecats4606: and try to get gadgets
 ilovecats4606: I think the way totalyance do it is to find some gadgets in emurom, subtract offset magic number, tell me to dump that addr, then we see if its there
-whoisthat2009guy: it can dump seg1 very good
-whoisthat2009guy: because I took murasamemru wind's checksum dump hackstring to create a new one
-whoisthat2009guy: i was thinking about checksum dumping
+black_0xdead: it can dump seg1 very good
+black_0xdead: because I took murasamemru wind's checksum dump hackstring to create a new one
+black_0xdead: i was thinking about checksum dumping
 ilovecats4606: brr
 ilovecats4606: totalyance said that we should try and make a new hackstring
-whoisthat2009guy: but analyze px is pain
+black_0xdead: but analyze px is pain
 ilovecats4606: and crash 🤡
 ilovecats4606: so i entered the hackstring (it took 30mins to type)
 ilovecats4606: Totalyance said: 115esp2 rom thread can help
-whoisthat2009guy: only took ~3 minutes to record
-whoisthat2009guy: swipe dumping is way faster
+black_0xdead: only took ~3 minutes to record
+black_0xdead: swipe dumping is way faster
 ilovecats4606: yes
-whoisthat2009guy: but problem is ... offset
-whoisthat2009guy: **copy** the template and make hackstring 😂
+black_0xdead: but problem is ... offset
+black_0xdead: **copy** the template and make hackstring 😂
 ilovecats4606: but then i dont understand what gadget
-whoisthat2009guy: i think a fastest way for me to do is...
+black_0xdead: i think a fastest way for me to do is...
 ilovecats4606: Because i know how to dump segments and disassemble to asm
 ilovecats4606: thats why i want someone to help or teach me assembly
 ilovecats4606: totalyance is busy with exams
 ilovecats4606: idk bro
-whoisthat2009guy: but... is 4.5hours still a long time?
-whoisthat2009guy: dont dump 1byte/s because it's **fcking** costing your time
+black_0xdead: but... is 4.5hours still a long time?
+black_0xdead: dont dump 1byte/s because it's **fcking** costing your time
 ilovecats4606: you can check the stuff in pinned of the disassembled stuff we found
 ilovecats4606: because 9hours is too long
 ilovecats4606: totalyance can make loop of 1byte/sec (9hours) but he said he will try to find 4.5hour method
 ilovecats4606: i dump 372bytes at a time
-whoisthat2009guy: hmm, 0:0000 to 0:7ffe success?
+black_0xdead: hmm, 0:0000 to 0:7ffe success?
 ilovecats4606: already done
-whoisthat2009guy: the best thing we can do is at least do romwindow dumping, because it's the decent way to find some gadget like spelling, etc
-whoisthat2009guy: cool
+black_0xdead: the best thing we can do is at least do romwindow dumping, because it's the decent way to find some gadget like spelling, etc
+black_0xdead: cool
 ilovecats4606: https://www.youtube.com/shorts/y890iZsUOBc
 ilovecats4606: read this
 mycatismycat: I can get 5:Reg to show if I use option 2 in the mode and press AC but I have a feeling it's not the way it's meant to happen
@@ -1508,8 +1766,8 @@ Obtain a SpecialBox in mathio comp
 type in it: x6[frac] x4[right] x4[del]. Fraction with lineio fraction symbol in numerator will appear next to specialbox
 [left] [9] [del] [right] [right] [del] [left] [)] [=] Syntax error
 [left] you will see crazy fraction. x3[right] [3] [left] [del]. Calc will freeze for a sec then go weird blank screen with 2 arrows and M light up. If you press [ac] [left] weird things come up in equation
-whoisthat2009guy: 
-whoisthat2009guy: actually stevey decomped it before that's why i'm not writing it down 😂
+black_0xdead: 
+black_0xdead: actually stevey decomped it before that's why i'm not writing it down 😂
 ilovecats4606: dm ?
 hoang_phuc1234: i dont have the emu ROM tho
 ilovecats4606: then tell me addr
@@ -1606,7 +1864,7 @@ ilovecats4606: where link
 theseat_yt: thats intended
 ilovecats4606: cut off by example 2
 ilovecats4606: how moving???
-whoisthat2009guy: uhh
+black_0xdead: uhh
 theseat_yt: pretty accurate recreation if you ask me
 ilovecats4606: bro needs to tell us how to find romdump
 bn9u: tisk tisk tisk
@@ -1647,42 +1905,42 @@ theseat_yt: <@705043446284419104> <@759251017287860244> do you know any string f
 ilovecats4606: it works so good tho
 ilovecats4606: made by chatgpt 💀
 ilovecats4606: you should check out the one in pinned
-whoisthat2009guy: <:trollface:840751694639005747>
-whoisthat2009guy: 
+black_0xdead: <:trollface:840751694639005747>
+black_0xdead: 
 ilovecats4606: and just `from:totalyance in:#fx-82au-plus-ii-2nd`
 ilovecats4606: very usefulnes
 ilovecats4606: read pins
 ilovecats4606: okokokok
-whoisthat2009guy: will make because I always use 570esp screen dump template to make bro 😂
+black_0xdead: will make because I always use 570esp screen dump template to make bro 😂
 ilovecats4606: you got the tools to convert img2bin and disassembler???
 ilovecats4606: share share
 ilovecats4606: you know hackstring for this calc???
 ilovecats4606: fr???
-whoisthat2009guy: now I can only provide hackstring (will make soon) and you will record and send ur video, I will try processing pixels dump
-whoisthat2009guy: not sure if I can bought au calculator because my grandma this time not let me to buy anymore 😂
+black_0xdead: now I can only provide hackstring (will make soon) and you will record and send ur video, I will try processing pixels dump
+black_0xdead: not sure if I can bought au calculator because my grandma this time not let me to buy anymore 😂
 ilovecats4606: first au calc to dump
 ilovecats4606: freerom freerom
 ilovecats4606: pls do it for fx82au plus ii 2nd
-whoisthat2009guy: thats how I dumped myself 570vnplus (original + 2nd edition), 570esp 2nd edition
-whoisthat2009guy: but hurt my eyes + tired because of checking pixel + cutting each frames of video
-whoisthat2009guy: only take me approx 3minutes to record 😂
-whoisthat2009guy: hmm my old method was a bit different, it's called swipe-screen
+black_0xdead: thats how I dumped myself 570vnplus (original + 2nd edition), 570esp 2nd edition
+black_0xdead: but hurt my eyes + tired because of checking pixel + cutting each frames of video
+black_0xdead: only take me approx 3minutes to record 😂
+black_0xdead: hmm my old method was a bit different, it's called swipe-screen
 ilovecats4606: so we found new upgrade if we can find the right gadgets that is AMAZING ||2byte/sec (4.5hour)||
 ilovecats4606: 1byte/sec or whatever
 ilovecats4606: we have a method to screendump rom (9hour camera need)
-whoisthat2009guy: a bit understand
+black_0xdead: a bit understand
 ilovecats4606: .
-whoisthat2009guy: ~~and <@981463678698266664> camera is so good anyway~~
-whoisthat2009guy: btw how is the progress of dumping this rom?
-whoisthat2009guy: 💀
+black_0xdead: ~~and <@981463678698266664> camera is so good anyway~~
+black_0xdead: btw how is the progress of dumping this rom?
+black_0xdead: 💀
 ilovecats4606: new hackstring leak: ||[shift] [ac] crashes the calculator||
 bn9u: Scroll up <@705043446284419104>
-whoisthat2009guy: then its good
-whoisthat2009guy: ah about esp(2nd) rom dumps if your calc can type hackstring
+black_0xdead: then its good
+black_0xdead: ah about esp(2nd) rom dumps if your calc can type hackstring
 ilovecats4606: as for real romdumps, ask <@759251017287860244>
 ilovecats4606: thanks i almost forgot my streak
-whoisthat2009guy: rom dump?
-whoisthat2009guy: hmm?
+black_0xdead: rom dump?
+black_0xdead: hmm?
 theseat_yt: gn
 theseat_yt: my calc is at school still
 ilovecats4606: freerom freerom
@@ -4937,7 +5195,7 @@ ilovecats4606: I can send video?
 ilovecats4606: the lineio overflow is verify in this calculator
 theseat_yt: I am
 ilovecats4606: yeah this one need to be in verify
-casiotester2k12: I think you're in verify mode
+variablean2k12: I think you're in verify mode
 ilovecats4606: did you store theta correctly?
 ilovecats4606: you did it wrong then
 theseat_yt: it says A=0 true
@@ -4959,7 +5217,7 @@ ilovecats4606: ok that is correct
 ilovecats4606: ok
 theseat_yt: so I got oo->A
 ilovecats4606: It should say on screen theta->A and answer is blank
-casiotester2k12: I have never used this calc before, but i think we can try to do some exploits from other models (Basically just entering their hackstring)
+variablean2k12: I have never used this calc before, but i think we can try to do some exploits from other models (Basically just entering their hackstring)
 ilovecats4606: so [shift] [sto] [a]
 ilovecats4606: After pol(0,1) get the equation then delete everything except for theta. Store in a variable like A
 theseat_yt: done
@@ -4968,12 +5226,12 @@ ilovecats4606: You need to do it in mathio
 theseat_yt: I know the pol(0,1) exploit, but I don't know if for lineio
 ilovecats4606: how rop?
 ilovecats4606: do you know what i should do after getting basic overflow lineio
-casiotester2k12: I dont even have the calc
+variablean2k12: I dont even have the calc
 ilovecats4606: Get the theta with Pol(0,1) exploit do you know how?
-casiotester2k12: No
+variablean2k12: No
 ilovecats4606: can you dump rom pls
 ilovecats4606: After  [ac] Calculator go black for a second then look like this
-casiotester2k12: What yall yapping abt
+variablean2k12: What yall yapping abt
 theseat_yt: oki
 ilovecats4606: wait i give tutorail 1 sec
 theseat_yt: how do I achieve lineio basic overflow
@@ -5350,7 +5608,7 @@ ilovecats4606: can you type any letter
 kribit: Sus
 kribit: Is that a rom reference
 kribit: Is that a second edition reference
-neoroll: hi
+im_devarsh: hi
 kribit: Also you did get the theta
 kribit: Follow step 1b instead
 hoang_phuc1234: ~~real ROM when~~
@@ -5433,7 +5691,7 @@ For example:
 `3÷2((((((((((((((((((((((((((` [=] [left button]
 
 Results in `|3÷ 2` where the pipe is the stuck cursor and there is a significant gap between the division sign and the 2.
-neoroll: Same
+im_devarsh: Same
 
 We have been trying to check and find more cool things
 omega314: I have the exact same calculator model
