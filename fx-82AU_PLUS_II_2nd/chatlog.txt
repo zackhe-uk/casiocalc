@@ -1,8 +1,1227 @@
+ilovecats4606: .
+itzhj: cant find if its been said
+itzhj: whats the hacksting for spelling?
+ilovecats4606: So when you run the spellling hackstring and you type Pol( in one of the places that it will render, it will show l
+ilovecats4606: When you do spelling, the calculator replaces it by the ascii
+itzhj: wait so how does this become l? wont it just show as Pol( ? or am i missing something
+ilovecats4606: ping
+ilovecats4606: It go ABCDMXY
+ilovecats4606: Note my tokentable for this is incorrect i just havent had the chance to fix it
+ilovecats4606: 
+ilovecats4606: If you want uppercase L, its ->M
+ilovecats4606: 
+ilovecats4606: If you want lowercase l, its Pol(
+ilovecats4606: is the text
+ilovecats4606: the very rhs column
+ilovecats4606: So in my tokentable
+itzhj: i try to write hello but i can’t find a way to type a l
+ilovecats4606: Do you want to do spelling??
+arslaan.pathan: how do i type arbitrary text again? this question has probably been asked many times but the token table is confusing me
+arslaan.pathan: im confused
+arslaan.pathan: wait hold up
+ilovecats4606: ez
+ilovecats4606: ok got the seg0 vid
+mycatismycat: oh cool
+ilovecats4606: im dumping seg0 now
+ilovecats4606: no we fixed it now
+mycatismycat: we get all of the rom except the last few bytes
+mycatismycat: It's the same shit from the seg0 dump again
+mycatismycat: the video is already on google drive. you don't need to upload it onto discord LMFAO
+theseat_yt: Yessss
+theseat_yt: noooo
+ilovecats4606: actually might be cooked guys
+ilovecats4606: i have no idea what i typed into my calc
+ilovecats4606: all totalynce btw
+ilovecats4606: am i the first person ever to do it
+ilovecats4606: Seg1 has been dumped yall
+ilovecats4606: because of discord file limit
+ilovecats4606: I record the video with obs at 200kbps
+theseat_yt: But good job
+theseat_yt: Yeah I saw that after lol
+bn9u: so it can do 0 and 1
+bn9u: this hackstring can dump seg 0 btw
+bn9u: lol
+theseat_yt: wait my bad I thought that was a different version of seg0 without scrolling
+bn9u: last i checked only seg 0
+bn9u: we dont have a seg 1 dump?
+mycatismycat: just send the video son google drive's video player kills the bitrate
+ilovecats4606: im learning rn
+ilovecats4606: alright
+itzhj: how does the rom dump thing even work?
+theseat_yt: nah it's made for a scrolling one not a still frame but when we get the final dump I wanna compare it to my previous dump
+ilovecats4606: give it a try actually
+ilovecats4606: analyser?
+ilovecats4606: your what
+theseat_yt: I'd love to see how this compares to my one
+itzhj: idk what that is but cool
+ilovecats4606: We can use this hackstring to do clean dump of seg0 asw totalynce said
+ilovecats4606: <@759251017287860244> (they make hs) <@1119554379490525204> <@1085862271399493732> <@802070813112926229> <@782395167079792691> <@705043446284419104> <@1493551115239952515> <@914795916366610432>
+ilovecats4606: Seg1 dump
+ilovecats4606: then use spelling
+ilovecats4606: toktentable is there
+ilovecats4606: go to fx82auplusii2nd repo
+ilovecats4606: go to my github
+ilovecats4606: ye'
+itzhj: is there characters for it
+itzhj: for example could i get just the word Hello
+ilovecats4606: spamming left or right locks on then you can go back and delete when you bring it out of the unstable char it locks in
+ilovecats4606: ye spam the right arrow and it locks on
+itzhj: is there a way to type words? like i got the unstable character thingy but is there a way to stop it from changing to just get the character?
+ilovecats4606: happens a lot
+ilovecats4606: means you typed it wrong
+virexalon_73332: I just tried the video hackstring but I probably did something wrong and somehow got into a strange diagnostics mode... different from the ON-SHIFT-7 one but with a menu taht automatically returned to it after finishing. is this documented and known, or is this just strange?
+virexalon_73332: ok thanks
+ilovecats4606: repo name fx82auplusii2nd
+ilovecats4606: my profile
+virexalon_73332: ok what's the link?
+ilovecats4606: oh check my github chartable
+ilovecats4606: context?
+virexalon_73332: Is this a small negitive minus or a normal subtract minus? 2D  -
+virexalon_73332: not the conversion part but everything before "THEN" I did a few hours ago...
+ilovecats4606: like loonggg time ago
+virexalon_73332: ... i did this only a few hours ago (only the spam ans part)
+ilovecats4606: wait i have it written some where LONGLONG ago
+ilovecats4606: THEN
+ilovecats4606: ac left equals
+ilovecats4606: utnil m light up
+ilovecats4606: spam x10 ans
+ilovecats4606: then
+ilovecats4606: get a specialbox in mathio
+virexalon_73332: sounded like a joke... but it could work kind of... you would just use them to do math calculations for each conversion unit... but at that point just use : to chain operations or just all in one...
+ilovecats4606: so just
+ilovecats4606: jk
+virexalon_73332: 10 calculators... ?
+ilovecats4606: then build a pyriamid
+ilovecats4606: wire them up
+ilovecats4606: you need to get like 10 calcs
+ilovecats4606: ok to enter it
+ilovecats4606: egyptian mode
+virexalon_73332: egyptian mode?????
+ilovecats4606: you can actually go to conversion mode by entering egyptian mode
+ilovecats4606: knew
+ilovecats4606: yes
+virexalon_73332: Also did anyone know that using the h, d, o and b characters you can actually convert decimal, hexadecimal, octal and binary into decimal (don't know why the d is there if it converts to decimal)
+virexalon_73332: ok thanks
+ilovecats4606: just need to ask totalyance
+virexalon_73332: ok just wanted to know
+ilovecats4606: oh theoretically its possible
+ilovecats4606: no
+virexalon_73332: but no one has gotten every single part of the ROM yet?
+ilovecats4606: Have a look at the file that <@782395167079792691> seent while back its preety accurate and im prettus rue they also sent their code in here aswell
+virexalon_73332: nice
+ilovecats4606: im first to ever dump fx82auplusii2nd
+ilovecats4606: no
+ilovecats4606: If you want a project to do try to get the video into a 100% accurate dump
+virexalon_73332: I mean by the whole community so far
+ilovecats4606: the dump is also not 100% clean
+ilovecats4606: this hackstring for seg0
+ilovecats4606: no
+virexalon_73332: and the entire ROM has been dumped into a binary file? or are some parts still missing?
+virexalon_73332: makes sense, your reddit post on that was i think 6 months ago
+ilovecats4606: <@759251017287860244>
+ilovecats4606: long time since i did that hackstring
+ilovecats4606: im *pretty* sure it there i forgor
+ilovecats4606: 9 doesnt matter its jsut what i use to convey messageeasy
+ilovecats4606: ye
+virexalon_73332: sorry put too many 9s but still at A=0
+virexalon_73332: oh yeah i meant that
+ilovecats4606: it start at 99|a=0
+ilovecats4606: wiat no
+ilovecats4606: ye
+virexalon_73332: right??
+virexalon_73332: and the video hackstring starts at 44 past 999999|A=0
+virexalon_73332: Ok thanks
+ilovecats4606: chartable same no matter what mode ur in
+virexalon_73332: I found it by trying to see if I could find the MathIO character list or something like that.
+virexalon_73332: although the unstable byte seems to be only in LineIo characters
+virexalon_73332: Yeah I saw that one and did try
+ilovecats4606: you can type stuff inside the SpecialBox and it has similar effect to 99|a=0
+ilovecats4606: thats a way to overflow
+virexalon_73332: What do you mean by that?
+ilovecats4606: you cant see what ur typing
+ilovecats4606: bc
+ilovecats4606: it kinda bad tho
+ilovecats4606: ye aware
+virexalon_73332: Oh thanks
+ilovecats4606: here
+virexalon_73332: I checked and only the simple one was there not video, if that's not available then that's fine
+ilovecats4606: pinned i tink
+virexalon_73332: Thanks, do you possibly have the actual hackstring as I want to do it myself just for fun...
+ilovecats4606: here is one i think https://drive.google.com/file/d/1DC06Gm5gWAJtx5934ZtsroDvVUA41LmH/view?usp=sharing
+ilovecats4606: I have a few in my google drive check sent by me link
+virexalon_73332: Where can we get the video ROM dump? Also does anyone know about the fact that you can do Ans÷9 and spam abs in MathIO Comp Mode to get the box character without the unstable byte? It's Ans÷9 and spam abs, =, back to get the box after scrolling a bit through the equation that was converted to LineIO I think... This is my first time here so sorry if I'm breaking any rules. I have CASIO fx-82AU Plus II 2nd edition.
+ilovecats4606: ye
+itzhj: i got it
+itzhj: k
+arslaan.pathan: so it should be like 99999999|A=0
+where | is your cursor
+arslaan.pathan: and then slowly keep spamming 9 until you see A=0 appear after your cursor
+arslaan.pathan: you spam the letter 9 after you get to overflow around ~90 times
+itzhj: how do you get to it?
+itzhj: i know how to do the overflow thing but wdym 9999|A=0?
+ilovecats4606: bruh my discrod on phoen is broken but basically after you do overflow in verif lineio when u reach 9999|A=0 type 100 chars and a bit then you will see a byte that changes every 0.5 seconds allowing you to type any char, you can see the chartable on my github
+ilovecats4606: okay 1 second
+itzhj: <@981463678698266664>  hi
+itzhj: oke
+ilovecats4606: *20
+ilovecats4606: unstable ill explain tmr ping me in like 12 hr
+ilovecats4606: draw, yes theoreticaly but i never test it
+itzhj: I dont know how i found this discord but how can you draw something on the calculator and whats a unstable character
+theseat_yt: alr
+ilovecats4606: happy birthday to ur bro!!
+ilovecats4606: alr
+theseat_yt: I am at a function for my brother's 18th now so I can't do it today
+ilovecats4606: lmk how it goes
+ilovecats4606: it could just crash teh calc
+ilovecats4606: i have no idea if this work sbtw
+theseat_yt: Alr
+ilovecats4606: <@782395167079792691>
+ilovecats4606: 
+ilovecats4606: oops my vesktop filename
+ilovecats4606: not tested btw
+ilovecats4606: let me find it
+ilovecats4606: alright im back
+theseat_yt: https://tenor.com/view/gem-alarm-gem-alert-ring-ring-doorbell-chud-gif-1353273367591808784
+theseat_yt: Lmfaoo
+ilovecats4606: ping me in 5?
+ilovecats4606: hold up im in a brawl ranked rn
+ilovecats4606: let me find it
+ilovecats4606: i have the python somewhere
+theseat_yt: YOOO
+ilovecats4606: drawing possible
+ilovecats4606: yes
+theseat_yt: Could we render a frame of bad apple at the moment
+bn9u: you could squeeze in a extra line by removing the gaps
+bn9u: but you see how there is like a 1px gap between each line ish
+bn9u: well it would probably require a data loader
+bn9u: 5 line spelling isn't too hard aktewaly
+theseat_yt: I see u totalnyce
+theseat_yt: Oh my goodness I missed so much
+ilovecats4606: https://github.com/fxesdev/nXU8100-resources
+ilovecats4606: and heres the datasheet
+the_1_who_asked: tysm
+the_1_who_asked: alr
+ilovecats4606: anws <@815020202093576233> its diasas here you can read it ig
+ilovecats4606: compiling?
+theseat_yt: It isn't compiling well tho
+theseat_yt: Oh that's good
+ilovecats4606: me and totalynce usd it to get 4lines spell
+ilovecats4606: no its fine
+theseat_yt: Apparently it's complete utter horribleness for some reason
+ilovecats4606: here
+ilovecats4606: theres a romdump here somewhere?
+ilovecats4606: uhh
+the_1_who_asked: cause im kinda lost about all the diff ones
+the_1_who_asked: also is there an easy way to learn what all the diff rop gadgets do?
+the_1_who_asked: what even is the debug pin protocol 😭
+ilovecats4606: <@815020202093576233> I will drop fx82auplusii2nd 5lines spelling hackstring if you figure out debug pin protocol (real)
+mycatismycat: https://tenor.com/view/brain-brain-meme-big-brain-big-brain-meme-big-brain-time-gif-2441110471562975014
+bn9u: nowadays we use roms dumped from officail emulators (they are different from real counterparts) and then make educated guesses on where stuff is ont eh real one and then once the render address is found, you can dump the rom window (0x8000 bytes) and from there you have roughly enough to dump the rest of the rom
+bn9u: blah blah blah, science science science, rom dump
+ilovecats4606: <@759251017287860244> will answer the best :)
+ilovecats4606: and even emu, some is there, but just some offset
+ilovecats4606: so e.g. some other fxes and like og 82aupii
+ilovecats4606: as i said before, some of this was found thru knowledge of other calcs
+the_1_who_asked: but how did we actually get the rop gadget to get rom dumps at the start (better explanation)
+the_1_who_asked: we use rop gadgets to get a rom dump at specific adress on calc -> we decode this to get rop gadgets -> we use those rop gadgets for hackstrings and other stuff
+the_1_who_asked: idk how to explain it better sorry
+the_1_who_asked: also how did we figure out how to dump specific rom addresses initially? since to find the gadgets we go through the rom dumps, but to get the rom dumps (and make other hackstrings) we need the rop gadgets?
+the_1_who_asked: awesome tysm
+ilovecats4606: you can use this to decomp https://github.com/ferib/U8Disasm i never used it i use another one but try this it might work
+the_1_who_asked: ~~bit of a random question is it possible to get an unstable variable, set it to a value normally not able to reach and then take it back into normal verif?~~  nvm figured it out u just gotta do part of it with the screen blinded
+bn9u: Nx u8
+the_1_who_asked: do u know what architecture it uses?
+ilovecats4606: i think??? <@759251017287860244>
+ilovecats4606: and thats it
+ilovecats4606: convert to tokens
+ilovecats4606: so what we type is `45 23 31 30`
+ilovecats4606: which is `1` and `0`
+ilovecats4606: is 31 and 30
+ilovecats4606: the typable char
+ilovecats4606: looking at our tokentable
+ilovecats4606: 45 23 x1 xx
+ilovecats4606: we do
+ilovecats4606: so lets say we want to exec 1:2345
+ilovecats4606: x can be anything in this scenario, refer to the token table
+ilovecats4606: `de bc xa xx <-> a:bcde`
+ilovecats4606: from addr to hex
+ilovecats4606: this is the conversion
+ilovecats4606: then we look for gadgets, lets say we want pop ER0 or whatever (im stilll not good at asm so sorry correct me if im wrong totalynce) but we just find it there and the addr
+ilovecats4606: we can use a binary disassembler based on the calc's architecture
+ilovecats4606: then from that
+ilovecats4606: ok so we can convert the image, to a binary file
+the_1_who_asked: wait if thats how it works how did u go from a stupid tonne of binary to a rop gadget address location + what it does?
+the_1_who_asked: ohh so did u guys go through separate romdumps to find gadgets?
+ilovecats4606: this
+ilovecats4606: this
+ilovecats4606: we can put some data in front ig i think
+the_1_who_asked: lol alg
+theseat_yt: nvm im not qualified enough
+the_1_who_asked: also why do some hackstrings have the 44 off set while some dont?
+the_1_who_asked: if thats right how did you all figure out what the rop addresses for the gadgets and stuff were?
+the_1_who_asked: so is it like by typing stuff in after the overflow the hexa of the characters is correlated to a rop address?
+ilovecats4606: 0 1
+the_1_who_asked: from what i can tell that was segment 0 and the other roms are unknown for this calculator?
+the_1_who_asked: how many segments are there?
+ilovecats4606: gj that you got it first try
+the_1_who_asked: sick i just tried the full rom dump hackstring and it worked but took forever to type in 😅
+ilovecats4606: one time
+ilovecats4606: but it will just be like
+ilovecats4606: The token A is character A in spelling(check gh for table)
+the_1_who_asked: alr
+ilovecats4606: because, it reads the character value. Not what it references
+ilovecats4606: it will print A
+the_1_who_asked: like if i put AAAA... in the 16 char, will it print as the val of A or the character of A
+bn9u: If you do 1234 shift rcl m+, the m variable will be like 0x012340000 or smth like that, it can be used to make getting certain characters easier
+ilovecats4606: then you get the token?
+ilovecats4606: i THINK you need to reverse it, so lets say you wanna dump 0:1234. You need to type 00 <ad dr> so you reverse it i.e. `00 34 12`
+ilovecats4606: great question i wish i could remember and tell you
+ilovecats4606: knowledge is good
+ilovecats4606: its okay i was like that too
+ilovecats4606: yes wdym by variables
+the_1_who_asked: sorry for so many questions lol
+the_1_who_asked: also 2 other quick questions is emurom emulator rom? and can you use variables for the 4 line display
+the_1_who_asked: the <ad dr>
+the_1_who_asked: i dont get how the address works tho
+ilovecats4606: the real seg0 dump hackstring is here somewhere aswel
+ilovecats4606: i forgor
+ilovecats4606: oh yeah
+the_1_who_asked: ive down some romdump
+the_1_who_asked: ive seen it its pinned
+ilovecats4606: oh here
+ilovecats4606: the simple one
+ilovecats4606: im tryna find the romdump code for you
+ilovecats4606: aint no way the first 4lines here
+ilovecats4606: whats this <@759251017287860244>
+ilovecats4606: with that, we can figure out SOME offset from emurom
+ilovecats4606: we had a script to dumprom (just 372 bytes at a time)
+ilovecats4606: And since we know the SP offset is 44 (idk how we know totalnyce told me but i assume from trial+error or from other calc)
+ilovecats4606: verif overflow was on other calcs i think
+ilovecats4606: for example, comp specialbox overflow: its present on other calcs
+ilovecats4606: ok so a lot of the things we found out of this calc was obtained because we knew thigns about over calc
+ilovecats4606: 1 sec
+the_1_who_asked: alr
+ilovecats4606: rop
+the_1_who_asked: idk i thought i read that somewhere i assumed it was the way you executed commands on calculator
+ilovecats4606: arm?
+the_1_who_asked: whats the process to figuring things such as this out? is it to do with how arm works?
+ilovecats4606: nicee gj
+the_1_who_asked: forgot bout the order
+ilovecats4606: .
+the_1_who_asked: LES GO slightly messed up numbers tho
+ilovecats4606: but i think we have enough info to dump seg1
+ilovecats4606: the full realrom of fx82auplusii2nd hasnt been dumped yet, seg0 has
+ilovecats4606: but realrom works
+ilovecats4606: For example,, trying to store illegal variable in fx82auplusii2nd emurom comp mode will just not work
+ilovecats4606: the emulators that casio provide have a different rom (slightly differnet) but that means hackstrings and exploits wont work
+ilovecats4606: but only if, the realrom exsits
+ilovecats4606: if you mean like making hackstring, finding exploit, etc, emulator is used 99% time
+ilovecats4606: depends wym by that
+the_1_who_asked: also are emulators more commonly used here or the actual calculators?
+the_1_who_asked: bet alr
+ilovecats4606: so i want to give back to the community yk
+ilovecats4606: i was like u once i didn’t get anything and they explained to me
+ilovecats4606: or totalynce or anyone here rlly
+ilovecats4606: any question ask me bro i gotchu
+ilovecats4606: ye lol allg
+the_1_who_asked: holy thats so much quicker tysmm
+the_1_who_asked: lol its almost impossible to win i put a lot of bombs
+theseat_yt: Oh oka
+ilovecats4606: their bio
+theseat_yt: wdym
+ilovecats4606: 😭
+ilovecats4606: i clicked on a bomb first try
+the_1_who_asked: alr
+ilovecats4606: if spelling js use the hex you see the issue easily it’s ok
+ilovecats4606: there are so small mistakes i haven’t got to fixing but shouldn’t matter unless spelling
+ilovecats4606: my github had the token table
+ilovecats4606: instead of waiting super long
+ilovecats4606: i.e. if you want  conversion type RanInt and you can go closer to it
+ilovecats4606: you can spam arrow to pause it
+ilovecats4606: it refresh every 0.5 secs
+the_1_who_asked: oo does it refresh when i type a new char?
+ilovecats4606: you can over type the unstable to jump to closer
+the_1_who_asked: i was reading through stuff bout rom dumps but the arm stuff seems pretty complicated
+the_1_who_asked: ye i was messing around with stuff in here takes a bit to get the one i want tho
+ilovecats4606: do you know unstable character
+ilovecats4606: https://github.com/ilovecats4606/fx-82AU-PLUS-II-2nd
+the_1_who_asked: ok tysm
+ilovecats4606: on my github
+ilovecats4606: it is hex
+bn9u: <@981463678698266664> can you share the converter tool ting
+bn9u: use your imagination or smth
+the_1_who_asked: is hit hexa? if so what would i then translate the digits to?
+the_1_who_asked: im pretty new to this discord whats the "
+3A 31 30 30
+96 81
+50 30 30 30
+30 C2 30 30"? and how do i read/translate it/type it on calc?
+sushi2627: both are fine
+confusomu: I wasn't sure about the `{ } " < ` lol
+mycatismycat: screw c++, c reigns supreme
+mycatismycat: i've seen it too many times to know that this is the calculator font
+mycatismycat: Reae lol
+confusomu: oh nice
+ilovecats4606: ye
+confusomu: are all of these characters in the normal calculator font?
+lol2302.: cumreal
+sushi2627: https://tenor.com/view/cereal-gif-24457795
+sushi2627: c real
+ilovecats4606: 
+ilovecats4606: atwt my beloved ❤️
+ilovecats4606: 
+ilovecats4606: sorry the old onne would crash after showing it, i edit to fix
+mycatismycat: woooooooah
+theseat_yt: wow
+ilovecats4606: <@759251017287860244> nce 🏁 @<@1119554379490525204> dodapro <@1085862271399493732> ary zewo アイドル <@802070813112926229> fx-82AU PLUS II 2nd Edition ROM <@782395167079792691> <@705043446284419104>
+ilovecats4606: 
+ilovecats4606: # fx82auplusii2nd 4lines spelling
+Thanks to <@759251017287860244> for massive helps
+
+Step 1. Perform basic overflow in LineIO VERIF
+Step 2. be at `99999|A=0`
+Step 3.
+```<16 chars text> (3rd line)
+0
+<16 chars text> (4rth line)
+0
+<10 chars>
+3A 31 30 30
+96 81
+50 30 30 30
+30 C2 30 30
+<8 chars>
+<16 chars text> (1st line)
+0
+<16 chars text> (second line)
+0```
+Step 4. [ac] [left] [equals]
+ilovecats4606: <@1085862271399493732> did you leave and rejoing?
+lol2302.: manwithouthair
+jsaidoru: 👀
+theseat_yt: ._. i see a hat
+sushi2627: 
+theseat_yt: Ded chat
+theseat_yt: Oappa
+theseat_yt: lol
+mycatismycat: the zzazz glitch is peak
+sushi2627: maybe do a majority vote like this guy did
+sushi2627: https://youtu.be/0-7PSmYYHF0
+theseat_yt: Damn it just became apparent to me that we may never get an accurate dump ever
+ilovecats4606: sooooo
+bn9u: Fuh
+ilovecats4606: nah man, it just froze after equals
+ilovecats4606: not bad
+ilovecats4606: ```84      ->F
+34      4
+30      0
+30      0
+01      mᴘ
+01      mᴘ
+BE      𝗣
+28      (
+30      0
+30      0
+30      0
+30      0
+30      0
+F8      J▶kgf⋅m
+0C      𝜆c
+38      8
+30      0
+30      0
+74      x10
+01      mᴘ
+FC      °C▶°F
+75      ^2
+30      0
+30      0```
+ilovecats4606: time to translate
+ilovecats4606: alr
+ilovecats4606: alr 30 min
+bn9u: <@981463678698266664>
+bn9u: and spam 0's afterwards
+bn9u: ```
+<44 chars>
+84 34 30 30
+01 01
+BE 28 30 30 # pop er0 er4
+30 30
+30 F8
+0C 38 30 30 
+74 01
+FC 75 30 30```
+bn9u: okay maybe just do a test to see if memcpy nf even works bruh
+bn9u: fuhhhhhh
+ilovecats4606: yeah nice one bro
+ilovecats4606: ok
+bn9u: it should be video tho
+bn9u: its just to test if it works
+ilovecats4606: ```84      ->F
+34      4
+30      0
+30      0
+01      mᴘ
+01      mᴘ
+46      F
+7B      Int(
+30      0
+30      0
+E2      m²▶acre
+81      𝒆
+FC      °C▶°F
+75      ^2
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+40      Vm
+2D      -
+30      0
+30      0
+D0      P(
+87      ᵍ
+12      n
+82      π
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+84      ->F
+34      4
+30      0
+30      0
+74      x10
+01      mᴘ
+C8      MatA
+33      3
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+31      1
+30      0
+30      0
+30      0
+30      0
+18      ∑x⁴
+36      6
+30      0
+30      0
+BE      𝗣
+28      (
+30      0
+30      0
+C8      MatA
+FE      cal▶J
+DC      m▶yd
+87      ᵍ
+0C      𝜆c
+38      8
+30      0
+30      0
+74      x10
+01      mᴘ```
+ilovecats4606: i need to know so i can prepare record if needed
+ilovecats4606: is it supposed to be video or image?
+ilovecats4606: ook im gonna start
+bn9u: idk
+ilovecats4606: is ts gonabe video?
+ilovecats4606: 1h
+ilovecats4606: ok]
+bn9u: this should work
+bn9u: here
+bn9u: ```
+84 34 30 30 # pop er2
+01 01
+46 7B 30 30 # pop er14
+E2 81 (start - 2)
+FC 75 30 30 # memcpy_nf
+
+30 30 30 30 30 30 30 30 30 30
+30 30 30 30 30 30 30 30 30 30
+30 30 30 30 30 30 30 30
+
+start: ( 0x81E4 )
+40 2D 30 30 # render
+D0 87
+12 82 30 30 30 30 30 30 30 30 30 30 # er8 (addr) + render junk
+84 34 30 30 # pop er2
+74 01
+C8 33 30 30 # [er8] += er2, pop xr8
+30 30 30 30
+30 31 30 30 # pop er0
+30 30
+18 36 30 30 # delay
+
+BE 28 30 30 # pop er0 er4
+addr:
+C8 FE
+DC 87
+0C 38 30 30 # pop er10
+74 01```
+theseat_yt: what
+bn9u: wait ik
+bn9u: maybe u did wrong or smth
+bn9u: argh
+bn9u: that means sumtin wong
+bn9u: oof
+ilovecats4606: <@759251017287860244>
+ilovecats4606: second one after ac
+ilovecats4606: First image, its faded out a bit over time
+ilovecats4606: 
+ilovecats4606: ive never seen this lol
+ilovecats4606: the screen is blank but top bar is all lit up
+ilovecats4606: ok i did it
+ilovecats4606: abt the same
+theseat_yt: right?
+theseat_yt: actually thats better than the last one
+ilovecats4606: aaa
+ilovecats4606: first byte is unstable gng
+ilovecats4606: 
+ilovecats4606: ```84      ->F
+34      4
+30      0
+30      0
+01      mᴘ
+01      mᴘ
+46      F
+7B      Int(
+30      0
+30      0
+7E      xor
+08      𝜇ʙ
+FC      °C▶°F
+75      ^2
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+40      Vm
+2D      -
+30      0
+30      0
+D0      P(
+87      ᵍ
+AE      ⌟
+81      𝒆
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+84      ->F
+34      4
+30      0
+30      0
+74      x10
+01      mᴘ
+C8      MatA
+33      3
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+31      1
+30      0
+30      0
+30      0
+30      0
+18      ∑x⁴
+36      6
+30      0
+30      0
+BE      𝗣
+28      (
+30      0
+30      0
+C8      MatA
+FE      cal▶J
+DC      m▶yd
+87      ᵍ
+0C      𝜆c
+38      8
+30      0
+30      0
+74      x10
+01      mᴘ```
+theseat_yt: lol
+ilovecats4606: hold up lemme translate
+theseat_yt: okay
+theseat_yt: ohh
+ilovecats4606: i live in qld
+ilovecats4606: i am back
+theseat_yt: u dont have to answer that if you dont want to
+theseat_yt: do you live over in WA or just have lunch rlly late
+theseat_yt: okay fair
+ilovecats4606: after lunch
+ilovecats4606: ill do it in 1 hour?
+theseat_yt: I am very busy at the moment, also my calculator's screen is scratched a bit so I can't really record it well sorry
+theseat_yt: alright thanks
+bn9u: ill also send that seg0 dump u made as a disas for safekeeping
+bn9u: its in hex, you need to convert it to chars first
+theseat_yt: okay
+bn9u: yea
+theseat_yt: as the hackstring?
+bn9u: try this
+bn9u: ```
+84 34 30 30 # pop er2
+01 01
+46 7B 30 30 # pop er14
+7E 81 (start - 2)
+FC 75 30 30 # memcpy_nf
+
+30 30 30 30 30 30 30 30 30 30
+30 30 30 30 30 30 30 30 30 30
+30 30 30 30 30 30 30 30
+
+start: ( 0x8180 )
+40 2D 30 30 # render
+D0 87
+AE 81 30 30 30 30 30 30 30 30 30 30 # er8 (addr) + render junk
+84 34 30 30 # pop er2
+74 01
+C8 33 30 30 # [er8] += er2, pop xr8
+30 30 30 30
+30 31 30 30 # pop er0
+30 30
+18 36 30 30 # delay
+
+BE 28 30 30 # pop er0 er4
+addr:
+C8 FE
+DC 87
+0C 38 30 30 # pop er10
+74 01```
+ilovecats4606: 🤡
+bn9u: ig
+ilovecats4606: so i just ac?
+ilovecats4606: ...
+ilovecats4606: BROO
+ilovecats4606: 44
+bn9u: that one wont work then lol
+bn9u: 44 chars
+bn9u: 40 or 44
+bn9u: what is start sp?
+bn9u: wait
+ilovecats4606: half of it is just 0
+ilovecats4606: i think i can do it less than 7 min
+ilovecats4606: not too long
+bn9u: it will take a while for a whole lotta notin
+ilovecats4606: ?
+ilovecats4606: ill try this poc first
+bn9u: jw
+bn9u: and make it incremenet
+bn9u: i can try finish the prototype actually
+ilovecats4606: okay
+bn9u: yes
+ilovecats4606: do i start at 9999|A=0 and then start typing ther?
+ilovecats4606: <@759251017287860244> wait i frogot how to hackstring its been so long
+ilovecats4606: :heartbreak:
+ilovecats4606: 18 unstables gng
+ilovecats4606: alr
+ilovecats4606: arl
+ilovecats4606: all that for a black screen
+ilovecats4606: 😭
+ilovecats4606: ```30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+40      Vm
+2D      -
+30      0
+30      0
+D0      P(
+87      ᵍ
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+30      0
+31      1
+30      0
+30      0
+30      0
+30      0
+18      ∑x⁴
+36      6
+30      0
+30      0
+BE      𝗣
+28      (
+30      0
+30      0
+C8      MatA
+FE      cal▶J
+DC      m▶yd
+87      ᵍ
+0C      𝜆c
+38      8
+30      0
+30      0
+74      x10
+01      mᴘ
+84      ->F
+34      4
+30      0
+30      0
+01      mᴘ
+01      mᴘ
+46      F
+7B      Int(
+30      0
+30      0
+7A      c₁
+81      𝒆
+FC      °C▶°F
+75      ^2
+30      0
+30      0
+30      0
+30      0```
+bn9u: it should in theory make a black screen
+ilovecats4606: alr
+ilovecats4606: the big calc
+ilovecats4606: do i gotta pull out the hackstrings
+ilovecats4606: brooo
+ilovecats4606: Its always verif
+bn9u: ```
+40x{[0]}
+:+6 - 0 0 ( :+6 can be substituted with =+3 if in verif mode )
+RanInt#(+14 gradian
+12x{[0]}
+0 1 0 0
+0 0
+null+24 6 0 0 ( null can be achieved by deleteing the timer byte and then letting it count up to the desired char )
+Permutation ( 0 0
+RanInt#(+6 RanInt#(+34
+RanInt#(+26 gradian
+null+11 8 0 0
+x10^ null+1
+degrees 4 0 0
+null+1 null+1
+ln(+3 ^-1+4 0 0
+^-1+3 e
+RanInt#(+32 ^2 0 0
+0 0```
+bn9u: <@981463678698266664> <@782395167079792691> 
+```
+30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+40 2D 30 30
+D0 87
+30 30 30 30 30 30 30 30 30 30 30 30 
+30 31 30 30
+30 30
+18 36 30 30
+
+BE 28 30 30
+C8 FE
+DC 87
+0C 38 30 30
+74 01
+84 34 30 30
+01 01
+46 7B 30 30
+7A 81
+FC 75 30 30
+30 30```
+bn9u: so pad start
+bn9u: it fits perfectly in 60 bytes
+bn9u: wait
+bn9u: prototype dumper
+bn9u: ```
+start: ( 0x817A )
+40 2D 30 30 # render
+D0 87
+30 30 30 30 30 30 30 30 30 30 30 30 # render junk
+30 31 30 30 # pop er0
+30 30
+18 36 30 30 # delay
+
+BE 28 30 30 # pop er0 er4
+C8 FE
+DC 87
+0C 38 30 30 # pop er10
+74 01
+84 34 30 30 # pop er2
+01 01
+46 7B 30 30 # pop er14
+7A 81
+FC 75 30 30 # memcpy_nf
+```
+bn9u: okay
+bn9u: nah
+bn9u: hmm
+bn9u: hang on
+bn9u: it is pretty nice
+bn9u: it ends in a jpop er14 so it is easy to loop and doesnt destroy stack
+bn9u: so try this
+bn9u: you can dump rom
+bn9u: if you copy 0x174 bytes to 87dc
+bn9u: so you can pick segment to dump essentially
+bn9u: r2:er0 = src, er4 = dest, er10 = len
+bn9u: ```
+00:75FCH    FC05            MOV ER12, ER0
+00:75FEH    8620            MOV R6, R2
+00:7600H    CE08            BAL _$020_18
+_$010_17:
+00:7602H    F045            MOV ER0, ER4
+00:7604H    906F92C0        L R2, R6:[ER12]
+00:7608H    9241            ST R2, [ER4]
+00:760AH    E081            ADD ER0, #001H
+00:760CH    F405            MOV ER4, ER0
+00:760EH    EC81            ADD ER12, #001H
+00:7610H    EAFF            ADD ER10, #0-1H
+_$020_18:
+00:7612H    E000            MOV ER0, #000H
+00:7614H    F0A7            CMP ER0, ER10
+00:7616H    C1F5            BLT _$010_17
+00:7618H    F085            MOV ER0, ER8
+00:761AH    FC1E            POP ER12
+00:761CH    F42E            POP XR4
+00:761EH    F82E            POP XR8
+00:7620H    A1EA            MOV SP, ER14
+00:7622H    FE1E            POP ER14
+00:7624H    FE1F            RT```
+bn9u: using memcpy_nf
+ilovecats4606: how
+sushi2627: 
+theseat_yt: Ohh that would be much more accurate and reliable
+bn9u: id say it's more reliable, it uses memcpy_nf 
+(can copy far pointer data to near pointer address)
+in short: copy rop to ram
+theseat_yt: That would be a whole lot easier
+bn9u: like icsanad and a few others did
+bn9u: rather than scan line stuff
+bn9u: we could consider using full screen dumper
+bn9u: hmmm
+theseat_yt: de autocorrects to Dw for me
+theseat_yt: Dw
+bn9u: chat de
+theseat_yt: Once again the chat is deadddddd
+ilovecats4606: hie?
+bn9u: hie
+ilovecats4606: <@759251017287860244> <@782395167079792691> how its going?
+good?
+red_0xalive: i just made this, not sure if this seg0 rom dump hackstring can be translated to other calcs
+red_0xalive: damn
+red_0xalive: 
+sushi2627: 
+bn9u: perfecto
+bn9u: yeas
+theseat_yt: <@759251017287860244> is this better?
+bn9u: 570vnp2
+theseat_yt: what calc is that for
+theseat_yt: thx
+bn9u: 
+theseat_yt: is there a rom from another calculator that I could compare it with, if so where would it be
+theseat_yt: hmmm
+bn9u: but it is currupted with smth idk, there is tons of invalid instructions so i cant work with it
+bn9u: i think addresses are foine
+theseat_yt: can we compare it to our previously working addresses to see if it is the same?
+theseat_yt: I really don't know why it is failing
+theseat_yt: damn
+bn9u: nada
+theseat_yt: <@759251017287860244> I tried swapping the bytes around with the following code:
+```with open('romdump.bin', 'rb') as f:
+    raw = f.read()
+
+swapped = bytearray()
+for i in range(0, len(raw) - 1, 2):
+    swapped.append(raw[i])      
+    swapped.append(raw[i + 1])
+
+if len(raw) % 2 == 1:
+    swapped.append(raw[-1])
+
+with open('swapped.bin', 'wb') as f:
+    f.write(swapped)```
+and the casioemu disassembler read it until 0:8538 in contrast to 0:1A18 when run previously
+theseat_yt: yeah
+bn9u: 21 rows + 4 bytes
+theseat_yt: (256 bytes)
+theseat_yt: 2048 bits
+theseat_yt: oh
+bn9u: like teh scan size
+bn9u: thats just the screen size
+theseat_yt: 31x 96
+theseat_yt: ohh
+bn9u: yeah
+theseat_yt: like the video?
+bn9u: how large is the area to scan again?
+theseat_yt: https://files.catbox.moe/hfjb9p.rar
+theseat_yt: I wrote the program with the help of AI, I will send you a list of files that I made.
+it is ~100mb so I will use catbox to upload the files. I will send the link when it is done
+theseat_yt: okay
+bn9u: can you share the program you used to extract it?
+bn9u: probably detection, idk
+bn9u: idk how it could be an issue with the hackstring
+theseat_yt: I got the video, extracted the binary perfectly, and turned it into a binary file ACCOUNTING for the scrolling. if there is something wrong with it, it is not due to a flaw in the visual extraction but a problem with the hackstring
+bn9u: like
+`B 0C:0084H`
+segment C doesnt exist
+bn9u: it is full of invalid stuff and litterally no pop instructions
+bn9u: the rom is bad
+theseat_yt: can you please explain?
+theseat_yt: wdym no pop pc
+bn9u: there is still no pop pc
+bn9u: bro
+theseat_yt: <@759251017287860244>
+theseat_yt: My brain got confused FF with YY as it shows up as a Y in text
+theseat_yt: you see how at the end of the file there is a large amount of FF's?
+theseat_yt: I didnt edit it with a hex editor
+theseat_yt: nooo i mean the hex code FF those characters my badd
+bn9u: Unless it text view in like a hex editor then that's fine
+bn9u: It destroys the file
+bn9u: Wdym YY, dude stop using text editors
+theseat_yt: there are a bunch of FF characters that it didn't capture at the end (that big block of fully black bits at the end)
+bn9u: Should be 64
+bn9u: Why only 50kb?
+theseat_yt: <@981463678698266664> can you clean it i really can't be stuffed
+theseat_yt: couldn't be stuffed cleaning it but the data that is there is a very very very high chance of being accurate - hasn't been editied in a notepad although at the start it is a little cut off, but the data should be there from the end
+ilovecats4606: idk where the other one is but im pretty sure i made like 3 vids
+ilovecats4606: https://drive.google.com/file/d/1F8G0jA9-ZqERFYj7qu4CR469am_Ur-88/view?usp=share_link
+ilovecats4606: https://drive.google.com/file/d/1T2bawc0ALsp5bBAt5g1GI679GCuX5QlS/view?usp=share_link
+ilovecats4606: i have 3 vids
+ilovecats4606: GN
+sushi2627: sleep well ig
+bn9u: gn
+theseat_yt: seg0 100% accuracy will be released tomorrow morning as I have to go to sleep now <@759251017287860244> <@1118717195820744724> <@981463678698266664>
+sushi2627: cool
+theseat_yt: Wait I think I have just got a 100% accurate ROM
+sushi2627: i recognize the teto
+theseat_yt: i am in pain talking to chatgpt it keeps coding horribky
+theseat_yt: lol
+bn9u: Ooh fancy
+theseat_yt: sorry for the music in the background lol
+theseat_yt: 
+bn9u: can you send the vid?
+i can probs try myself
+bn9u: k
+theseat_yt: I have got a 100% accurate bitmap of the grid which I am now trying to save it whilst avoiding the scanline
+theseat_yt: I have been working on it all day lol
+bn9u: can you try dump seg0 again
+ilovecats4606: so i can start calchacks
+ilovecats4606: i finished all my assessments now
+ilovecats4606: whats progress?
+ilovecats4606: hello
+bn9u: yeah you need to extract again
+theseat_yt: yeah i dont have the og file anymore
+bn9u: but you might need to extract again if you dont have the original file
+theseat_yt: okay
+bn9u: there is a hex editor extension
+bn9u: you need a hex editor
+theseat_yt: does vscode work
+bn9u: it ruins the whole file
+bn9u: you cant use text editor to edit
+theseat_yt: 
+theseat_yt: ```00D-0000ø'00®ö'4Ðx10R(00ÜÒ3000000´.00ì²"004000 ²,00ÿÿ.....6700R(00.100000@#00@#00@#00@#00D-0000ø'00®ö'4Ðx10R(```
+that at the start is unnecessary
+theseat_yt: that one definetely was not accurate
+bn9u: did you by chance edit with text editor or smth
+bn9u: isnt accurate
+bn9u: this one is the same
+bn9u: https://discord.com/channels/839749858687844372/1282292960448479284/1444903771447623720
+bn9u: im looking for other dumps u guys did
+theseat_yt: is pop pc found in other seg0 dumps?
+bn9u: 
+theseat_yt: hmm thats strange
+bn9u: or a pop anything instruction
+bn9u: there isnt a pop pc instruction inside it
+bn9u: no like this dump
+theseat_yt: 
+bn9u: there isnt even a pop pc
+bn9u: this dump is not very good
+bn9u: ummm
+bn9u: ill work off this
+B2 22 30 30 --st r2, [er0]
+theseat_yt: check pinned messages maybe
+bn9u: i can do it actually
+bn9u: i just need a gadget like 
+POP ER0 -> 0:1234H or smth like that
+theseat_yt: this is it
+bn9u: i just need smth i can compare the address with to make the dump not offset
+bn9u: ig
+theseat_yt: We do have the rom dum gadget for seg0 if thats what you were wanting
+bn9u: i can try fix it if i know a gadget
+bn9u: do you have a file or list of gadgets?
+theseat_yt: that is possible yeah
+bn9u: the vector table
+bn9u: this 8.8.8.8 stuff is meant to be at the start iirc
+bn9u: 
+bn9u: i think it is ofset
+bn9u: lmao
+theseat_yt: 
+theseat_yt: crap that was the wrong one again mb
+bn9u: why is it >64kb?
+bn9u: ok
+theseat_yt: sorry this is the accurate one
+theseat_yt: okay
+bn9u: Can you send here?
+theseat_yt: we need a verif hackstring to find out but I am pretty sure its accurate
+bn9u: Is it accurate?
+theseat_yt: yeah
+bn9u: We have seg0 right?
+theseat_yt: alr
+bn9u: Ya
+theseat_yt: so do you have time to assis the rom dum seg1
+theseat_yt: okay
+theseat_yt: oh
+bn9u: I'm lesser now
+bn9u: I still am
+mycatismycat: arm64 assembly?
+theseat_yt: This is PI calculation, pi is 4Y
+theseat_yt: it was taking too long so i stopped
+theseat_yt: lets goooo I just calculated pi to 3 digits on the calculatorrr
+theseat_yt: oop
+theseat_yt: I thought you were busy tho
+theseat_yt: idk how useful that is but i did it
+theseat_yt: i just overflowed with a character other than r
+ilovecats4606: 3d printing, pcb, esp32, arm64, romdump
+ilovecats4606: on the holdiays
+ilovecats4606: but i have a lot i wanna learn
+ilovecats4606: i can do some stuff
+ilovecats4606: no more big exams now
+ilovecats4606: i just had a spec exam
+theseat_yt: really? I thought you were like rlly busy
+bn9u: I can help
+theseat_yt: <@981463678698266664> if totalnyce can’t help, we’ll just have to do it ourselves
+sushi2627: https://tenor.com/view/dawko-sex2-fnaf-security-breach-security-breach-fnaf-gif-18498952
+theseat_yt: bro we are never getting seg1
+theseat_yt: Not a single woman watched that video
+theseat_yt: Tysm lol
+mycatismycat: https://www.youtube.com/watch?v=sMtckj6gnbg
+just watched this, you've earnt a new subscriber :)
+sushi2627: ** **
+mycatismycat: italicise a space
+theseat_yt: _ _
+powercord1: mb
+theseat_yt: Totally didn’t ddos them :P
+theseat_yt: Yeah lol
+mycatismycat: shame on news outlets for blaming assessform and not janislop
+mycatismycat: naplan got fucked
+theseat_yt: https://www.youtube.com/watch?v=0C4mNAKcqlQ
+
+I got compressed it so much
+mycatismycat: updooted
+mycatismycat: https://casiocalc.zackhe.uk/fx-82AU_PLUS_II_2nd/chatlog.txt
+mycatismycat: ok guys next chat dump pending
 mycatismycat: turns out i need to write a stupid comment here
-phongg7828: 
 sushi2627: 
 theseat_yt: DEAD CHAT 🤵‍♀️🤵‍♀️🤵‍♀️🤵‍♀️🤵‍♀️🤵‍♀️
-vmhax: 
 mycatismycat: argh shit not again
 mycatismycat: too lazy to install right now but i will tomorrow
 ilovecats4606: anyone help framecutter???
@@ -718,8 +1937,8 @@ ilovecats4606: 🥺
 ilovecats4606: please
 ilovecats4606: help dump seg1 now
 ilovecats4606: so we dumped seg0
-black_0xdead: great
-black_0xdead: dead chat
+red_0xalive: great
+red_0xalive: dead chat
 theseat_yt: ??
 mycatismycat: I could spend my life pondering upon the contents of that message... OR I could go outside and touch grass
 mycatismycat: one message in fx 82AU PLUS II 2nd edition channel i didn't read, that got deleted
@@ -849,7 +2068,7 @@ theseat_yt: also I got my calculator home
 theseat_yt: good luck
 ilovecats4606: i overflow and do hs correct
 ilovecats4606: why syntax error?
-black_0xdead: good luck ig
+red_0xalive: good luck ig
 ilovecats4606: i will try 1 more time
 theseat_yt: for 100% acc we have to:
 - Get a video without AF
@@ -857,25 +2076,25 @@ theseat_yt: for 100% acc we have to:
 - manually go through every frame
 - Rom dump seg 1
 - do it again
-black_0xdead: only some of esp calc dumped
+red_0xalive: only some of esp calc dumped
 theseat_yt: thats not many
-black_0xdead: with 100% accuracy, checksum is also ok
-black_0xdead: 570esp (2nd), 570vnp (2nd)
-black_0xdead: yes
+red_0xalive: with 100% accuracy, checksum is also ok
+red_0xalive: 570esp (2nd), 570vnp (2nd)
+red_0xalive: yes
 theseat_yt: has any calculator had the rom fully dumped with 100% accuracy before?
-black_0xdead: but time to dump ... too much
-black_0xdead: well, dump each byte is way more correct
-black_0xdead: because a **single** byte error may cause rom not working as expected
-black_0xdead: the rom must be 100% correct
-black_0xdead: but the matter is
-black_0xdead: yes
+red_0xalive: but time to dump ... too much
+red_0xalive: well, dump each byte is way more correct
+red_0xalive: because a **single** byte error may cause rom not working as expected
+red_0xalive: the rom must be 100% correct
+red_0xalive: but the matter is
+red_0xalive: yes
 theseat_yt: its not gonna be 100% perfect
-black_0xdead: and gave me long , long time ago
-black_0xdead: because I had template of checksum hackstring (chinese created it)
+red_0xalive: and gave me long , long time ago
+red_0xalive: because I had template of checksum hackstring (chinese created it)
 ilovecats4606: maybe i will fix syntaxerror
 ilovecats4606: just use me
-black_0xdead: well, if I have at least 1 au 2nd calc i can do it myself
-black_0xdead: it will be correct if you can **use checksum** hackstring to calculate and check
+red_0xalive: well, if I have at least 1 au 2nd calc i can do it myself
+red_0xalive: it will be correct if you can **use checksum** hackstring to calculate and check
 bn9u: so inc er14
 bn9u: iirc it uses the r0 = 1:[er14]
 bn9u: it is simpler iirc
@@ -959,11 +2178,11 @@ theseat_yt: Wdym
 user11111110301: Does anyone know how to loop and restore the stack?
 user11111110301: What of it Rop code?
 theseat_yt: ty!
-black_0xdead: okay so thats it lol
-black_0xdead: wait my bad.
+red_0xalive: okay so thats it lol
+red_0xalive: wait my bad.
 theseat_yt: true
 theseat_yt: ohh okay
-black_0xdead: 1.
+red_0xalive: 1.
 a. Yes
 b. At 44th characters
 c. No need after we typed 100 chars full
@@ -999,7 +2218,7 @@ ilovecats4606: pls help
 mycatismycat: that would make a brilliant wallpaper if it wasn't cut off
 mycatismycat: > *"freerom freerom"*
 \- ilovecats4606
-black_0xdead: bruh
+red_0xalive: bruh
 ilovecats4606: 0,1
 theseat_yt: how many segments are there?
 ilovecats4606: seg0
@@ -1075,8 +2294,8 @@ ilovecats4606: so dead now
 angusbromly: 😭
 angusbromly: jesus bro
 ilovecats4606: but i seem not able to type too many unstable with 2020 method (maybe no more than 2) so i wait for spelling method to drop
-black_0xdead: it will display actual ascii characters instead of tokens (the one that you saw on the input screen)
-black_0xdead: third column is only use for spelling
+red_0xalive: it will display actual ascii characters instead of tokens (the one that you saw on the input screen)
+red_0xalive: third column is only use for spelling
 theseat_yt: Also new free calculator acquired
 theseat_yt: Also why notes next to the character??
 theseat_yt: What’s the point of the third column
@@ -1093,7 +2312,7 @@ enjoy guys
 (||<@759251017287860244>|| pls pin this)
 theseat_yt: https://github.com/Thecoolcookie99/Casio-fx-82-ii-2nd-edition-character-sheet/blob/main/README.md
 theseat_yt: this took way too long to make
-black_0xdead: 💀
+red_0xalive: 💀
 mycatismycat: Suck your own dick
 angusbromly: fuck off with this shit
 lbphacker: is that right?
@@ -1249,10 +2468,10 @@ FF      @
 FF      @
 2E      .
 2E      .```
-black_0xdead: <@981463678698266664> hmm, should we release hackstring now?
-black_0xdead: mean use each half of frame and merge to 1 img
-black_0xdead: stevey tool uses manual frame cutting method
-black_0xdead: i need frame cutter
+red_0xalive: <@981463678698266664> hmm, should we release hackstring now?
+red_0xalive: mean use each half of frame and merge to 1 img
+red_0xalive: stevey tool uses manual frame cutting method
+red_0xalive: i need frame cutter
 ilovecats4606: i will make one later but i got some stuff to do
 ilovecats4606: 🙄
 ilovecats4606: if its so easy why dont u make it
@@ -1264,8 +2483,8 @@ theseat_yt: bro just use my tool, its a lot more reliable than img2bin
 its also very reliable as well
 kribit: looks like some great progress
 kribit: holy what did i miss
-black_0xdead: i need a frame cutter. stevey had a frame cutter tool be4 but i lost 😭
-black_0xdead: hmm
+red_0xalive: i need a frame cutter. stevey had a frame cutter tool be4 but i lost 😭
+red_0xalive: hmm
 ilovecats4606: 1. chatgpt code in pinned also there is original img2bin
 2. needs steady lighting like mine
 mycatismycat: 🔥 🔥
@@ -1275,19 +2494,19 @@ lbphacker: do yall have a solution that mostly works or is this a genuine proble
 lbphacker: mainly because the one time I saw it done it seemed to work smoothly enough
 lbphacker: I thought reading bits off the screen was a solved problem in this community
 angusbromly: sadly the screen is damaged
-black_0xdead: for easier analysing I want a guy who had a good -> best camera like you
-black_0xdead: your camera looks.... GREAT
+red_0xalive: for easier analysing I want a guy who had a good -> best camera like you
+red_0xalive: your camera looks.... GREAT
 angusbromly: even the slightest gradient
 angusbromly: 
 angusbromly: 
 angusbromly: a video will be near impossible
 angusbromly: this is nowhere good enough and the image is decent
 angusbromly: 
-black_0xdead: <:devious:1283726778799755337>
+red_0xalive: <:devious:1283726778799755337>
 lol2302.: checksum+ocr<:devious:1283726778799755337>
-black_0xdead: only analyze steps is ughhhh
-black_0xdead: good news for <@981463678698266664> <@1119554379490525204> <@802070813112926229> <@895187713261703188>
-black_0xdead: okay
+red_0xalive: only analyze steps is ughhhh
+red_0xalive: good news for <@981463678698266664> <@1119554379490525204> <@802070813112926229> <@895187713261703188>
+red_0xalive: okay
 angusbromly: yeah i dont think this is right
 angusbromly: gn
 angusbromly: alright ill try img to bin the rom
@@ -1321,7 +2540,7 @@ ilovecats4606: REAL FULL SEG0 FIXED
 ilovecats4606: REAL REAL REAL
 ilovecats4606: REAL REAL REAL ROMDUMPS ALERT
 ilovecats4606: <#839762460796780544>
-black_0xdead: Not expected this result
+red_0xalive: Not expected this result
 angusbromly: im adding what i know so far
 angusbromly: https://docs.google.com/document/d/18MC7IHjw5njUg0iQGxJGPWzbfkAKMP4TMGfFdjrxtBU/edit?usp=sharing
 jsaidoru: my phone is so bad it cant even load google drive 💀
@@ -1341,8 +2560,8 @@ ilovecats4606: random bytes, and the rom hackstring is half working
 mycatismycat: DUMP IT
 mycatismycat: FREEROM
 jsaidoru: btw what parts of the rom were dumped?
-black_0xdead: some bytes we dumped (from address `0x3402`)
-black_0xdead: ```
+red_0xalive: some bytes we dumped (from address `0x3402`)
+red_0xalive: ```
 0A 00 04 FC C6 F8 10 9C DF 80 8E F8 F1 CE 02 00 10 91 F9 80 88 71 0D C9 0C 71 0A C9 01 00 10 91 FA 80 01 71 01 C9 01 10 10 91 09 81 01 C9 01 10 1F FE 10 91 0E 81 FC C9 F1 A0 38 81 F9 C8 03 00 F7 CE CE F8 11 90 DE 80 01 F0 56 94 0C F0 58 02 CE F1 00 E2 11 92 DF 80 EE 00 82 01 01 F0 4A 62 1E F0 8E F2 CE F8 80 E0 04 C9 80 E2 02 C9 01 F1 0C A9 8E F2 CE F8 14 E2 40 00 81 01 01 F0 84 34 8E F2 CE F8 5E F2 00 E2 01 F0 4A 62 1E F2 8E F2 00 00 11 90 FE 80 11 90 FF 80 11 90 01 81 11 90 00 81 11 90 30 81 1F FE 00 00 F7 CE 00 00 F7 CE 11 90 F5 80 01 00 11 90 F7 80 1F FE 11 90 F5 80 00 00 11 90 F7 80 1F FE CE F8 7E F8 4E F0 01 F1 42 5E 00 8E 0E F0 25 FA 0A E8 85 FC 5E FC 04 F8 26 02 82 03 86 F2 A5 F0 01 F0 1A 7B 1E F0 01 7E 03 C9 A5 F0 01 F1 2A 50 5E FC 8A EA A5 F0 10 92 F9 80 C4 72 06 C9 00 E2 01 F0 4A 62 1E F0 3E F8 8E F2 08 02 84 03 86 F2 01 F0 1A 7B 01 7E 03 C9 A5 F0 01 F1 2A 50 F2 CE CE F8 7E F8 25 FA 0A E8 85 FC 5E FC 04 F8 26 00 82 01 86 F0 A5 F2 01 F0 1A 7B 1E F0 10 90 F9 80 C4 70 09 C8 08 00 84 01 5E FC A5 F2 8A E2 86 F0 01 F0 1A 7B 1E F0 3E F8 8E F2 1F FE 00 00 1F FE 1A A0 1F FE 18 02 8A 03 1A A0 28 80 ```
 ilovecats4606: 
 ilovecats4606: who can i see peeking out there
@@ -1387,10 +2606,10 @@ ilovecats4606:
 ilovecats4606: update:: chatgpt is SCAMMER
 ilovecats4606: theres about 67 unstables bro
 ilovecats4606: testing on realrom
-black_0xdead: emulator rom works
-black_0xdead: <@981463678698266664> <@802070813112926229> <@782395167079792691>
+red_0xalive: emulator rom works
+red_0xalive: <@981463678698266664> <@802070813112926229> <@782395167079792691>
 edit: ping <@759251017287860244> too
-black_0xdead: 
+red_0xalive: 
 ilovecats4606: how is this even allowed 😭
 ilovecats4606: dude its basically asking the teacher "did i get it right" its so op
 ilovecats4606: 
@@ -1398,7 +2617,7 @@ angusbromly: depends on the exam
 ilovecats4606: like you can literally check if ur ans is right during exams and stuff
 ilovecats4606: imo VERIFY funct is super op in this calc, its basically cheating
 ilovecats4606: olo
-black_0xdead: lol
+red_0xalive: lol
 ilovecats4606: bro just repleid and gave credit 😭
 ilovecats4606: i dont need credit
 mycatismycat: well he didn't credit anyone for it
@@ -1586,41 +2805,41 @@ mycatismycat: i tried it
 variablean2k12: 4 line spell (with timer ig) AND inverted syntax error😱
 ilovecats4606: ?
 ilovecats4606: i will send the rom
-black_0xdead: yes , i think i could help
+red_0xalive: yes , i think i could help
 ilovecats4606: i can send you the emurom
 ilovecats4606: if you want to help 😉 go ahead
 ilovecats4606: and try to get gadgets
 ilovecats4606: I think the way totalyance do it is to find some gadgets in emurom, subtract offset magic number, tell me to dump that addr, then we see if its there
-black_0xdead: it can dump seg1 very good
-black_0xdead: because I took murasamemru wind's checksum dump hackstring to create a new one
-black_0xdead: i was thinking about checksum dumping
+red_0xalive: it can dump seg1 very good
+red_0xalive: because I took murasamemru wind's checksum dump hackstring to create a new one
+red_0xalive: i was thinking about checksum dumping
 ilovecats4606: brr
 ilovecats4606: totalyance said that we should try and make a new hackstring
-black_0xdead: but analyze px is pain
+red_0xalive: but analyze px is pain
 ilovecats4606: and crash 🤡
 ilovecats4606: so i entered the hackstring (it took 30mins to type)
 ilovecats4606: Totalyance said: 115esp2 rom thread can help
-black_0xdead: only took ~3 minutes to record
-black_0xdead: swipe dumping is way faster
+red_0xalive: only took ~3 minutes to record
+red_0xalive: swipe dumping is way faster
 ilovecats4606: yes
-black_0xdead: but problem is ... offset
-black_0xdead: **copy** the template and make hackstring 😂
+red_0xalive: but problem is ... offset
+red_0xalive: **copy** the template and make hackstring 😂
 ilovecats4606: but then i dont understand what gadget
-black_0xdead: i think a fastest way for me to do is...
+red_0xalive: i think a fastest way for me to do is...
 ilovecats4606: Because i know how to dump segments and disassemble to asm
 ilovecats4606: thats why i want someone to help or teach me assembly
 ilovecats4606: totalyance is busy with exams
 ilovecats4606: idk bro
-black_0xdead: but... is 4.5hours still a long time?
-black_0xdead: dont dump 1byte/s because it's **fcking** costing your time
+red_0xalive: but... is 4.5hours still a long time?
+red_0xalive: dont dump 1byte/s because it's **fcking** costing your time
 ilovecats4606: you can check the stuff in pinned of the disassembled stuff we found
 ilovecats4606: because 9hours is too long
 ilovecats4606: totalyance can make loop of 1byte/sec (9hours) but he said he will try to find 4.5hour method
 ilovecats4606: i dump 372bytes at a time
-black_0xdead: hmm, 0:0000 to 0:7ffe success?
+red_0xalive: hmm, 0:0000 to 0:7ffe success?
 ilovecats4606: already done
-black_0xdead: the best thing we can do is at least do romwindow dumping, because it's the decent way to find some gadget like spelling, etc
-black_0xdead: cool
+red_0xalive: the best thing we can do is at least do romwindow dumping, because it's the decent way to find some gadget like spelling, etc
+red_0xalive: cool
 ilovecats4606: https://www.youtube.com/shorts/y890iZsUOBc
 ilovecats4606: read this
 mycatismycat: I can get 5:Reg to show if I use option 2 in the mode and press AC but I have a feeling it's not the way it's meant to happen
@@ -1766,8 +2985,8 @@ Obtain a SpecialBox in mathio comp
 type in it: x6[frac] x4[right] x4[del]. Fraction with lineio fraction symbol in numerator will appear next to specialbox
 [left] [9] [del] [right] [right] [del] [left] [)] [=] Syntax error
 [left] you will see crazy fraction. x3[right] [3] [left] [del]. Calc will freeze for a sec then go weird blank screen with 2 arrows and M light up. If you press [ac] [left] weird things come up in equation
-black_0xdead: 
-black_0xdead: actually stevey decomped it before that's why i'm not writing it down 😂
+red_0xalive: 
+red_0xalive: actually stevey decomped it before that's why i'm not writing it down 😂
 ilovecats4606: dm ?
 hoang_phuc1234: i dont have the emu ROM tho
 ilovecats4606: then tell me addr
@@ -1864,7 +3083,7 @@ ilovecats4606: where link
 theseat_yt: thats intended
 ilovecats4606: cut off by example 2
 ilovecats4606: how moving???
-black_0xdead: uhh
+red_0xalive: uhh
 theseat_yt: pretty accurate recreation if you ask me
 ilovecats4606: bro needs to tell us how to find romdump
 bn9u: tisk tisk tisk
@@ -1905,42 +3124,42 @@ theseat_yt: <@705043446284419104> <@759251017287860244> do you know any string f
 ilovecats4606: it works so good tho
 ilovecats4606: made by chatgpt 💀
 ilovecats4606: you should check out the one in pinned
-black_0xdead: <:trollface:840751694639005747>
-black_0xdead: 
+red_0xalive: <:trollface:840751694639005747>
+red_0xalive: 
 ilovecats4606: and just `from:totalyance in:#fx-82au-plus-ii-2nd`
 ilovecats4606: very usefulnes
 ilovecats4606: read pins
 ilovecats4606: okokokok
-black_0xdead: will make because I always use 570esp screen dump template to make bro 😂
+red_0xalive: will make because I always use 570esp screen dump template to make bro 😂
 ilovecats4606: you got the tools to convert img2bin and disassembler???
 ilovecats4606: share share
 ilovecats4606: you know hackstring for this calc???
 ilovecats4606: fr???
-black_0xdead: now I can only provide hackstring (will make soon) and you will record and send ur video, I will try processing pixels dump
-black_0xdead: not sure if I can bought au calculator because my grandma this time not let me to buy anymore 😂
+red_0xalive: now I can only provide hackstring (will make soon) and you will record and send ur video, I will try processing pixels dump
+red_0xalive: not sure if I can bought au calculator because my grandma this time not let me to buy anymore 😂
 ilovecats4606: first au calc to dump
 ilovecats4606: freerom freerom
 ilovecats4606: pls do it for fx82au plus ii 2nd
-black_0xdead: thats how I dumped myself 570vnplus (original + 2nd edition), 570esp 2nd edition
-black_0xdead: but hurt my eyes + tired because of checking pixel + cutting each frames of video
-black_0xdead: only take me approx 3minutes to record 😂
-black_0xdead: hmm my old method was a bit different, it's called swipe-screen
+red_0xalive: thats how I dumped myself 570vnplus (original + 2nd edition), 570esp 2nd edition
+red_0xalive: but hurt my eyes + tired because of checking pixel + cutting each frames of video
+red_0xalive: only take me approx 3minutes to record 😂
+red_0xalive: hmm my old method was a bit different, it's called swipe-screen
 ilovecats4606: so we found new upgrade if we can find the right gadgets that is AMAZING ||2byte/sec (4.5hour)||
 ilovecats4606: 1byte/sec or whatever
 ilovecats4606: we have a method to screendump rom (9hour camera need)
-black_0xdead: a bit understand
+red_0xalive: a bit understand
 ilovecats4606: .
-black_0xdead: ~~and <@981463678698266664> camera is so good anyway~~
-black_0xdead: btw how is the progress of dumping this rom?
-black_0xdead: 💀
+red_0xalive: ~~and <@981463678698266664> camera is so good anyway~~
+red_0xalive: btw how is the progress of dumping this rom?
+red_0xalive: 💀
 ilovecats4606: new hackstring leak: ||[shift] [ac] crashes the calculator||
 bn9u: Scroll up <@705043446284419104>
-black_0xdead: then its good
-black_0xdead: ah about esp(2nd) rom dumps if your calc can type hackstring
+red_0xalive: then its good
+red_0xalive: ah about esp(2nd) rom dumps if your calc can type hackstring
 ilovecats4606: as for real romdumps, ask <@759251017287860244>
 ilovecats4606: thanks i almost forgot my streak
-black_0xdead: rom dump?
-black_0xdead: hmm?
+red_0xalive: rom dump?
+red_0xalive: hmm?
 theseat_yt: gn
 theseat_yt: my calc is at school still
 ilovecats4606: freerom freerom
@@ -5620,9 +6839,9 @@ hoang_phuc1234: you can post it in <#1133693577663369246>  😱
 omega314: Another nz guy invited me
 kribit: and can someone try it out
 kribit: can somone pin this
-aubsched: <@696362227070009384>
-aubsched: I think there's nother nz guy in this servef
-aubsched: Oh hey nz
+Deleted User: <@696362227070009384>
+Deleted User: I think there's nother nz guy in this servef
+Deleted User: Oh hey nz
 kribit: martians are cool
 kribit: valid
 hoang_phuc1234: I'm from Mars
@@ -5657,10 +6876,10 @@ if you press [=] at any time it may crash, if you press [on] it wont work any mo
 5. you should see some usually unobtainable characters like r, ϴ, °, e or Me
 hoang_phuc1234: 
 kribit: alright im done
-aubsched: Hi moya
+Deleted User: Hi moya
 kribit: im australian 🗿
-aubsched: 
-aubsched: 美国间谍
+Deleted User: 
+Deleted User: 美国间谍
 kribit: No🗿
 hoang_phuc1234: 🐺
 hoang_phuc1234: oh you aren't Vietnamese
